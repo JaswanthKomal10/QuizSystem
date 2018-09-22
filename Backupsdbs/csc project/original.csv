@@ -1,0 +1,506 @@
+serial,question,option1,option2,option3,option4,correct,subject
+1," The ratio of the cost prices of two articles A and B is 4:5.The articles are sold at a profit with their selling prices being in the ratio 5:6.If the profit on article A is half of its cost price, find the ratio of the profits on the articles A and B?",7:10ÿ,9:11ÿÿÿÿÿÿÿÿ,05:09,10:11,d,quants
+2,"A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point. After what time will they again at the starting point ?",26 minutes and 18 seconds,42 minutes and 36 seconds,45 minutes,46 minutes and 12 seconds,d,quants
+3,"Two busesÿ A and B leave the same bus depot, A towards the North and B towads the East. The bus A travels at a speed of 5 km/hr more than that of the bus B. If after four hours the distance between the two buses is 100 km, find the speed of the bus A.",60 kmphÿÿÿÿÿ ,40 kmphÿÿÿÿÿ ,20 kmphÿÿÿÿÿ ,15 kmph,c,quants
+4,Rakesh invested an amount of Rs.12000 at the rate of 10% simple interest and another amount at the rate of 20% simple interest. The total interest earned at the end of one year on the amount invested became 14 p.c.p.a. Find the total amount invested .,Rs.20000,Rs.22000ÿÿÿÿÿ ,Rs.24000ÿÿÿÿ ,Rs.25000,a,quants
+5,A person traveled from his house to office at 30 kmph; then he was late to his office by 5 minutes. If he increases his speed by 10 kmph he would be early by 15 minutes to his office. What should be his speed so that he reaches his office on time ?,36 kmphÿÿÿÿ ,32 kmphÿÿÿÿÿ ,34 kmphÿÿÿÿÿ ,35 kmph,b,quants
+6," Ram starts working on a job and works on it for 12 days and completes 40% of the work. To help him complete the work, he employs Ravi and together they work for another 12 days and the work gets completed. How much more efficient is Ram than Ravi?",50%, 200%ÿÿ, 60%ÿÿÿÿÿÿÿÿÿÿÿÿ,100%,d,quants
+7,Nineÿ personsÿ wentÿ toÿ a hotelÿ forÿ takingÿ their meals. Eightÿ ofÿ themÿ spent Rs 12ÿÿ eachÿ onÿtheirÿ mealsÿ andÿ theÿ ninth spentÿ Rs.8ÿ moreÿ thanÿ theÿ averageÿ expenditureÿ ofÿ allÿ the ÿnine.ÿWhatÿ wasÿ theÿ total moneyÿ spentÿ byÿ them?ÿ,117,ÿÿÿ  180,ÿÿÿ  150,ÿÿÿ 200ÿÿÿÿÿÿ,a,quants
+8,"Inÿ anÿ examÿ 80%ÿ ofÿ theÿ boysÿ andÿ 40%ÿ ofÿ the girlsÿ passed.ÿ The numberÿ ofÿ girlsÿ whoÿ passedÿ isÿ 120, whichÿ isÿ 2 by 3rdÿofÿ theÿ numberÿ ofÿ boysÿ whoÿ failed.ÿ Whatÿ isÿ theÿ totalÿ numberÿ ofÿ studentsÿ whoÿ appearedÿ forÿ theÿ exam?",1200,380,3800,2180ÿÿ,a,quants
+9,A sum of money invested for a certain number of years at 8% p.a. simple interest grows to Rs.180. The same sum of money invested for the same number of years at 4% p.a. simple interest grows to Rs.120 only. For how many years was the sum invested?,25 yearsÿ, 40 yearsÿ,33 years and 4 monthsÿ,Cannot be determined,a,quants
+10,"An escalator moves towards the top level at the rate of 11 ft.sec and its length is 140 feet. If a person walks on the moving escalator at the rate of 3 feet per second towards the top level, how much time does he take to cover the entire length.",14 secÿÿÿÿÿÿÿÿÿ ,10 secÿÿÿÿÿÿÿÿÿ ,12 secÿÿÿÿÿÿÿÿÿ ,8 sec,b,quants
+11,Two persons start running simultaneously around a circular track of length 400 m from the same point at speeds of 15 kmph and 25 kmph. When will they meet for the first time any where on the track if they are moving in the opposite direction ?,144ÿ,36,124,32,b,quants
+12," Anitha had 80 currency notes in all, some of which are ofÿ Rs 95 denomination and the remaining of Rs45 denomination. The total amount of all these currency notes was Rs. 4000. How much amount (in Rs)did she have in the denomination of Rs 45?",3500,ÿ72,ÿ2000,ÿNone of these,b,quants
+13,"A person borrowed Rs.600 @ 3% per annumÿ S.I and Rs.800 @ 4« % per annum on the agreement that the whole sum will be returned only when the total interest becomes Rs.246. The number of years, after which the borrowed sum is to be returned, is",2 yearsÿÿÿÿÿÿÿÿ ,3yearsÿ,4 yearsÿÿÿÿÿÿÿÿ ,5 years,c,quants
+14,"In a regular week, there are 5 working days and for each day, the working hours are 8. A man gets Rs. 2.40 per hour for regular work and Rs. 3.20 per hours for overtime. If he earns Rs. 432 in 4 weeks, then how many hours does he work for ?",160ÿÿÿ,175ÿÿÿ,180ÿÿÿ,195,b,quants
+15,A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?,15 min,20 min,27.5 min,30 min,d,quants
+16,"Threeÿ timesÿ a numberÿ is 20%ÿ moreÿ thanÿ twiceÿ anotherÿ numberÿÿ whenÿ increasedÿ byÿ 105.ÿ Ifÿ twice the firstÿ number increasedÿ by 36ÿ is 20%ÿ lessÿ thanÿ threeÿ timesÿ ofÿ theÿ secondÿ number,ÿ thenÿ whatÿ isÿ theÿ firstÿ number?",150,162,180,None ofÿ these,b,quants
+17,". The seats in an Engineering college for Computer science, electronics and civil are in the ratio of 5 : 7 : 8. There is a proportion to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats ?",2 : 3 : 4ÿÿÿÿ ,6 : 7 : 8ÿÿÿÿÿÿÿ ,6 : 8 :ÿ 9ÿÿÿÿÿÿ ,none of these,a,quants
+18," From her school Meenu walks 20 metres towards north. She, then turns left and walks 40 metres. She again turns left and walks 20 metres. Further she moves 20 metres after turning to the right. How far is she from her original position?",20m,30m,50m,60m,d,reasoning
+19,Two trains P and Q are travelling from station A to station B at speeds of 100kmph and 120 kmph respectively.Train Q at station C for 10 minutes but reaches station B 5 minutes before train P.Find the distance between stations A and B.,50km,100km,120km,150km,a,quants
+20,"An enterprising businessman earns an income of Re 1 on the first day of his business. On every subsequent day, he earns an income which is just double of that made on the previous day. On the 20thday of business, he earns an income of:",Rs 2^19,ÿRs 2^20,ÿRs 202,ÿRs 20,a,quants
+21,"The population of a town was 3600 three years back. It is 4800 right now. What will be the population three years down the line, if the rate of growth of population has been constant over the years and has been compounding annually?",6000ÿ,6400ÿ, 7200ÿ,9600,b,quants
+22,"A sum of money was invested in a bank at 8%ÿ simple interest p.a. for 3 years. Instead had it been invested in mutual fund at 8.5% p.a. simple interest for 4 years, the earning would have been Rs.500 more. What is the sum invested?",Rs.4500ÿÿÿ,Rs.5000ÿ,Rs.3500ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ,Rs. 5500,b,quants
+23,Fourÿ anglesÿ ofÿ aÿ quadrilateralÿ areÿ inÿ G.P.ÿ Whoseÿ commonÿ ratioÿ isÿ anÿ intiger.ÿ Twoÿ ofÿ theÿ anglesÿ areÿ acuteÿ whileÿ theÿ otherÿ twoÿ areÿ obtuse.ÿÿ Theÿ measureÿ ofÿ theÿ smallestÿÿ angleÿ ofÿ theÿ quadrilateralÿ is,12,24,36,48,b,quants
+24,"The probability that it is Friday and that a student is absent is 0.03. Since there are 5ÿschool days in a week, the probability that it is Friday is 0.2. What is the probabilityÿthat a student is absent given that today is Friday?",10%,15%,12%ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ,13%,b,quants
+25,". A and B participate in a 5000 m bicycle race which is beingÿ run on a circular track of 500 m. If the speed of A and B are 20 m/s and 10 m/s respectively, what is the distance covered by A when he passes B for the seventh time ?",2500ÿm,2500ÿm,4000 m ÿÿÿÿÿÿ ,situation is not possible,d,quants
+26,Two pipes can fill a tank in 12 minutes and 20 minutes respectively. Both pipes are opened together and after some time the first pipe is closed and the tank is full in totally 10 minutes. For how many minutes was first pipe open?,8 minutes, 6 minutes,7 minutes, 10 minutes,b,quants
+27,"Amit throws a biased coin on which the head appears in 65% of the situations. In a game involving this coin, if Amit is paid Rs.15 per head and he has to pay Rs.20 for a tail, then in the long run, per game Amit makes an average??",Profit of Rs.2.25ÿÿÿÿ,loss of Rs.2.25ÿÿÿÿ,profit of Rs.2.75ÿÿÿÿ,loss of Rs.2.75,c,quants
+28,"Pipe A can fill a tank in 'a' hours. On account of a leak at the bottom of the tank it takes thrice as long to fill the tank. How long will the leak at the bottom of the tank take to empty a full tank, when pipe A is kept closed?",(3/2)a hoursÿÿÿÿÿÿÿÿÿÿÿÿÿ,(2/3)aÿÿÿÿÿÿÿÿÿÿÿÿÿÿ, (4/3)aÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,(3/4)a,a,quants
+29,"Inÿ anÿ examinationÿ amarÿ gotÿ 8%ÿ lessÿ thanÿ theÿ passÿ markÿ andÿ mohanÿ gotÿ 20%ÿ moreÿ thanÿ theÿ passÿ mark.ÿ Ifÿ theÿ differenceÿ betweenÿ theÿ percentageÿ ofÿ theirÿ markÿ isÿ 14,ÿ thenÿ whatÿ isÿ theÿ passÿ percentage",40%,50%,60%,cannotÿ beÿ determined.ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,b,quants
+30,"Out of 200 donors, 1 by 4 are men and remaining are women. Each male donor donates Rs.3000 per year and each female donor donates 1 by 2 of that amount. What is the total yearly collection through donations?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ","Rs.1, 50,000"," Rs.3, 75,000","Rs.1, 40,300","Rs.2, 25,000",b,quants
+31,"Theÿ averageÿ markÿ ofÿ aÿ classÿ ofÿ twentyÿ studentsÿ isÿ 64.ÿ Ifÿ threeÿ studentsÿ whoseÿ marksÿareÿ 32,28ÿ andÿ 34ÿ areÿ removedÿ ,ÿ thenÿ findÿ theÿ approximateÿ averageÿ markÿ ofÿ theÿ remainingÿstudentsÿ ofÿ theÿ class.",71,ÿÿÿÿ 74,ÿÿÿÿ  57,ÿÿÿÿ  70ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,d,quants
+32," A sum of Rs.100 is lent at simple interest of 3% p.a. for the first month, 9% p.a. for the second month, 27% p.a. for the third month and so on. What is the total amount of interest earned at the end of the year approximately",Rs.797160ÿÿ ,Rs.791160,Rs.65930ÿÿÿÿÿ ,Rs.66430,d,quants
+33,"A man and a woman 81 miles apart from each other, start traveling towards each other at the same time. If the man covers 5 miles per hour to the women's 4 miles per hour, how far will the woman have travelled when they meet?",27ÿÿÿÿÿÿÿÿÿÿÿÿÿ, 36ÿÿÿÿÿÿÿÿÿÿÿÿÿ, 45ÿÿÿÿÿÿÿÿÿÿÿÿÿ, None of these,b,quants
+34,"Ajay, Bhavan and Chetan started a business together. Thrice the investment of Ajay, twice the investment of Bhavan and the investment of Chetan are equal. Find the ratio of their respective profits at the end of the year?",01:02:01, 2:3:6,03:02:01, 1:2:3,b,quants
+35," A, B and C enter into a partnership and theirs shares are in the ratio 1/2 : 1/3 : 1/4. After two months, A withdraws half of his capital and after 10 months, a profit of Rs.378 is divided among them. What is B?s share?", Rs.129, Rs.144, Rs.156,Rs.168,b,quants
+36,"Two pipes A and B together can fill a cistern in 4 hours. Had they been opened separately, then B would have taken 6 hours more than A to fill the cistern. How much time will be taken by A to fill the cistern separately?",1 hour,2 hours,6 hours,8 hours,c,quants
+37,"Equalÿ weightsÿÿ ofÿ twoÿ alloysÿ containingÿ tin, copperÿ andÿ leadÿ inÿ theÿ ratioÿÿ 3:2:7ÿ andÿ4:11:3ÿ areÿ meltedÿÿ andÿ mixedÿ together.ÿ Whatÿ isÿ the ratioÿ ofÿ tin,ÿ copperÿ andÿ leadÿ inÿ theÿresultantÿ alloy?",41:81:37,33:91:81, 17:28:27, 51:86:89ÿÿÿÿÿÿ,c,quants
+38,"Howÿ manyÿ kilogramsÿ ofÿ teaÿ powder costingÿÿ Rs. 31ÿ perÿ kgÿ beÿ mixedÿ withÿ 36ÿ kilogramsÿ ofÿteaÿ powderÿ costingÿ Rs. 43 per kg,ÿ suchÿ thatÿ theÿ mixtureÿ whenÿ soldÿ atÿ Rs. 44 per kgÿ givesÿprofitÿ of 10%?",12,15,20,10,a,quants
+39,"In a partnership, A invests 1 / 6 of the capital for 1 /6 of the time, B invests 1 / 3 of the capital for 1 / 3 of the time and C, the rest of the capital for the whole time. Out of a profit of Rs.4600, B?s share is:",Rs.650,Rs.800, Rs.960, Rs.1000,b,quants
+40,Theÿ averageÿ ageÿ ofÿ aÿ committeeÿ ofÿ 8ÿ membersÿ isÿ 40ÿ years. A member agedÿ 55ÿ yearsÿretiredÿ andÿ hisÿ placeÿ wasÿ takenÿ byÿ anotherÿ memberÿ agedÿ 39ÿ years . Theÿ averageÿ ageÿ ofÿpresentÿ committeeÿ is;, 39 years,ÿÿÿ 38 years,ÿÿÿ 36 years,ÿÿÿ 35 years,b,quants
+41,A man invests Rs.5000 for 3 years at 5% p.a. compound interest reckoned yearly. Income tax at the rate of 20% on the interest earned is deducted at the end of each year. Find the amount at the end of the third year.,5624.32ÿ,5630.50ÿ,5788.125ÿ,5627.2,a,quants
+42,"Two pipes can fill a tank in 15 minutes and 12 minutes. The outlet pipe can empty the tank in 20 minutes. If all the pipes are opened when, the tank is empty, then in how many minutes will it take to fill the tank?",12,13,11,10,d,quants
+43,"In a garden, there are 12 rows and 14 columns of mango trees. The distance between two trees is 2 metres and a distance of one metre is left from all sides of the boundary of the garden. The length of the garden is",20m, 22m,24m,26m,d,quants
+44,"In an examination, a student scores 4 marks for every correct answer and loses 1mark for every wrong answer. If he attempts all 90 questions and secures 140 marks, the number of questions he attempts correctly, is:",35,40,42,46,d,quants
+45,"Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:",10,12,14,16,c,quants
+46,The speed of a motorboat itself is 20 km/h and the rate of flow of the river is 4 km/h. Moving with the stream the boat went 120 km. What distance will the boat cover during the same time going against the stream?,80 kmÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,180 kmÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,60 kmÿÿÿÿÿÿ, 100 km,a,quants
+47,"A watch, which loses time uniformly, was observed to be 5 minutes fast at 8.00 p.m.on Thursday. It was noticed to be 7 minutes slow at 8.00 a.m. on the subsequent Monday. When did the watch show the correct time ?",   7 a.m. saturday          ,   7 a.m. friday          ,10  am on Sunday, 11 am on Friday,a,reasoning
+48," The average temperature on Wednesday, Thursday and Friday was 250. The average temperature on Thursday, Friday and Saturday was 240. If the temperature on Saturday was 270, what was the temperature on Wednesday?",240ÿÿÿÿ,210ÿÿÿÿÿÿÿÿ,270ÿÿÿÿÿÿÿÿÿÿÿÿÿ,300,d,quants
+49,A merchant buys two articles for Rs.600. He sells one of themat a profit of 22% and the other at a loss of 8% and makes no profitor loss in the end. What is the selling price of the article that hesold at a loss?,Rs. 404.80, Rs. 440,Rs. 536.80,Rs. 160,a,quants
+50,"One-third of Rahul's savings in National Savings Certificate is equal to one-half of his savings in Public Provident Fund. If he has Rs. 1,50,000 as total savings, how much has he saved in Public Provident Fund ?"," Rs. 30,000ÿÿÿÿ"," Rs. 50,000ÿÿ","Rs. 60,000ÿÿÿ","Rs. 90,000",c,quants
+51,"A passenger train covers the distance between stations X and Y, 50 minutes faster than a goods train. Find this distance if the average speed of the passenger train is 60 kmph and that of goods train is 20 kmph.",20 kms ÿÿÿÿÿÿÿÿÿÿÿ,25 kms ÿÿÿÿ, 45 kms ÿÿÿÿ, 40 kms,b,quants
+52,". A red light flashes 3 times per minute and a green light flashes 5 times in two minutes at regular intervals. If both lights start flashing at the same time, how many times do they flash together in each hour?",30,24,20,60,a,quants
+53,Aÿ singleÿ refinedÿ oilÿ canÿ containsÿ 20%ÿ impurities.ÿ Afterÿ double ? refiningÿ itÿ containsÿ 4% impurities.ÿ Howÿ muchÿ ofÿ double- refinedÿ oilÿ canÿ beÿ obtainedÿ fromÿ 30ÿ litresÿ of singleÿrefinedÿ oil?,24.0 litres,24.8 litres, 25.0 litres,25.5 litresÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,c,quants
+54,"One evening, two friends Riya and Priya were talking to each other, with their backs towards each other, sitting in a park. If Riya?s shadow was exactly to the left of her, then which direction was Priya facing?",North-East,North,east,south,b,reasoning
+55,"A man can do a piece of work in 60 hours. If he takes his son with him and both work together then the work is finished in 40 hours. How long will the son take to do the same job, if he worked alone on the job?",0 hoursÿ, 120 hoursÿ,24 hoursÿÿÿ, None of these,b,quants
+56,A and B can do a piece of work in 21 and 24 days respectively. They started the work together and after some days A leaves the work and B completes the remaining work in 9 days. After how many days did A leave?,5,7,8,6,b,quants
+57,"ÿAfter walking 6 kms, I turned right and travelled a distance of 2 kms, then turned left and covered a distance of 10 km. In the end I was moving towards the north. From which direction did I start my journey?",North,South,South-west,North-east,b,reasoning
+58,ÿFifteen boys are standing in a row facing opposite direction alternately from left to right. If the fourth boy from left is facing towards the east then the fifth boy from the right is facing which direction?,south,north-west,east,None of these,d,reasoning
+59,Amit and Ananthu can do a work in 15 days and 25 days respectively. Amit started the work and left after 3 days. Ananthu took over and completed the work. In how many days was the total work completed?ÿÿÿÿÿÿÿ,28 days, 20 days,23 days,25 days,a,quants
+60,Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is:,60 gallons,100 gallons,120 gallons,180 gallons,c,quants
+61,"Two trains T1 and T2 start simultaneously from two stations X and Y respectively towards each other. If they are 70 km apart both 3ÿ and 6 hours after start, then find the distance between the two stations.",210 km ÿÿÿÿÿÿ ,240 kmÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ,220km,180km,a,quants
+62, The ratio of number of boys and girls in a class is 3 : 2.ÿ In the 1stÿsemester exam 20% of boys and 25% of girls get more than or equal to 90%ÿ marks. What percentage of students get less than 90% marks ?,56,70,78,80,c,quants
+63,"Ajith and Rana walk around a circular course 115 km in circumference, starting together from the same point. If they walk at speed of 4 and 5 kmph respectively, in the same direction, when will they meet ?",after 20 hours ,after 115 hoursÿÿÿ ,after 115 minutesÿÿÿ ,after 20 minutesÿ,b,quants
+64,A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?,3.6 sec,18 sec,36 sec,72 sec,c,quants
+65," Inÿ sevenÿ givenÿ numbers, theÿ averageÿ ofÿ firstÿ fourÿ numbersÿ isÿ 4ÿ andÿ that ofÿ theÿ lastÿ fourÿnumbersÿ isÿ alsoÿ 4.ÿ Ifÿ theÿ averageÿ ofÿ theseÿ sevenÿ numbersÿ isÿ 3,ÿ theÿ fourthÿ numberÿ is",3,4,7,11,d,quants
+66,"Two pipes A and B can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank?",10 min. 20 sec.,11 min. 45 sec.,12 min. 30 sec.,14 min. 40 sec.,d,quants
+67,"A, B and C started a business with capitals of Rs.6000, Rs.8000, and Rs.10000 respectively. At the end of the year, the profit share of B is Rs1000. The difference between the profit shares of A and C is",Rs. 400, Rs. 450, Rs. 500, Rs. 550,c,quants
+68,"Three partner?s A,B,C start a business. Twice A?s capital is equal to thrice B?s capital and B?s capital is four times C?s capital. Out of a total profit of Rs.16500 at the end of the year, B?s share is:",Rs.4000,Rs.6000,Rs 7500, Rs.6600,b,quants
+69,If the letters of the word CHASM are rearranged to form 5 letter words such that none of the word repeat and the results arranged in ascending order as in a dictionary what is the rank of the word CHASM?,24ÿ,31ÿ, 32ÿ,30,c,quants
+70,"Four milkmen rented a pasture. A grazed 24 cows for 3 months, B 10 cows for 5 months, C 35 cows for 4 months and D 21 cows for 3 months. If A?s share of rent is Rs.720, find the total rent of the field.", Rs.3250, Rs.3350,Rs.3450, Rs.3550,a,quants
+71,"A bag contains 5 five-rupee coins, 8 two-rupee coins and 7 one-rupee coins. If four coins are drawn from the bag at random, then find the odds in favour of the draw yielding the maximum possible amount.",0.713888889,968:969ÿÿÿÿÿÿÿÿÿÿ,0.714583333,969:968,a,quants
+72," Rs.5887 is divided between Shyam and Ram, such that Shyam's share at the end of 9 years is equal to Ram's share at the end of 11 years, compounded annually at the rate of 5%. Find the share of Shyam.",2088ÿ,2000ÿ, 3087ÿ,None of these,c,quants
+73," P,Q and R enter into a partnership in the ratio 7/2 : 4/3 : 6/5. After 4 months, A increases his share by 50%. If the total profit at the end of one year be Rs.21600, then B?s share in the profit is:",Rs.2100, Rs 2400,Rs.3600, Rs.4000,d,quants
+74,"A and B working together can finish a job in T days. If A works alone and completes the job, he will take T + 5 days. If B works alone and completes the same job, he will take T + 45 days. What is T?",25,60,15,None of these,c,quants
+75," A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",1/3ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ, 1/4ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,1/5ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ, 1/7,c,quants
+76,Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:,36,45,48,49,c,quants
+77,I travel the first part of my journey at 40 kmph and the second part at 60 kmph and cover the total distance of 240 km to my destination in 5 hours. How long did the first part of my journey last?,4 hoursÿ ,2 hoursÿ ,3 hoursÿ ,2 hours 24 minutes,c,quants
+78,"A trader buys goods at a 19% Amount on the label price. If hewants to make a profit of 20% after allowing a Amount of 10%, by what% should his marked price be greater than the original labelprice?",8%,-3.80%,33.33%, None of these,a,quants
+79,A man driving his bike at 24 kmph reaches his office 5 minutes late. Had he driven 25% faster on an average he would have reached 4 minutes earlier than the scheduled time. How far is his office?,24 kmÿ, 72 kmÿ,18 kmÿ, Data Insufficient,c,quants
+80,"A piece of work can finish by a certain number of men in 100 days. Ifÿ however, there were 10 men less, it would take 10 days more for the work to be finished. How many men were there originally?",75ÿ,82ÿ,100ÿ,110,d,quants
+81,The simple Interest on a certain sum of money at the rate of 4% p.a.ÿ for 5 years is Rs. 1680. At what rate of interest the same amount of interest can be received on the same sum after 4 years ?,5%ÿÿ ÿÿÿ ÿÿÿ ,6%,7%,8%,a,quants
+82,"Sita and Sinu together can do a work in 50 days. With the help of Smitha, they completed the work in 6 days and earn Rs.250. What is the share of Sinu if Sita alone can do the work in 100 days?",Rs.15,Rs.18, Rs.20,Rs.25,a,quants
+83,"Inÿ anÿ examinationÿ itÿ isÿ necessaryÿ forÿ aÿ candidateÿ toÿ getÿÿ 45 %ÿ ofÿ theÿ maximumÿ marksÿ toÿ pass. Aÿ candidateÿ whoÿ getsÿ 180ÿ marks, fails byÿ 45 marks. Findÿ theÿ maximumÿ marks.",450,600,500,550,c,quants
+84,"Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is:",9,9.6,10,10.8,d,quants
+85,"Anu can do a work in 6 days and Binu alone in 9 days. Anu and Binu undertook to do it for Rs.4500. With help of Minu, they completed the work in 3 days. How much is to be paid to Minu and Anu?","Rs.750, Rs.2250"," Rs.2000, Rs.750"," Rs.750, Rs.2000"," Rs.800, Rs.1250",a,quants
+86,The average age of a family of 5 members is 20 years. If the age of the youngest member be 10 years then what was the average age of the family at the time of the birth of the youngest member?,13.5ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,14ÿÿÿÿÿÿÿÿÿÿÿÿÿ,15 ÿÿ ÿÿÿÿÿÿÿÿÿÿÿÿ,12.5,d,quants
+87,"Inÿ anÿ A.Pÿ consistingÿ ofÿ 27ÿ terms,ÿ theÿ sumÿ ofÿ theÿ firstÿ threeÿ termsÿ isÿ 21ÿ andÿ thatÿ of theÿ threeÿ middleÿ termsÿ isÿ 93.ÿ Findÿ theÿ firstÿ termÿ andÿ theÿ commonÿ difference.","6,3","6,23","7,3","5,2ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ",d,quants
+88,Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:,01:03,03:02,03:04,None of these,b,quants
+89,"A bag contains 50 paisa, 20 paisa and 10 paisa coins in the ratio 5:3:1.If the total amount in the bag is 640 Rs,find the difference in the amounts contributed by 50 paisa and 20 paisa coins.",Rs.300ÿÿ, Rs.400ÿÿ, Rs.380ÿÿ, None of these,c,quants
+90,"Two pipes A and B can fill a cistern in 37 and halfÿminutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:",5 min.,9 min.,10 min.,15 min.,b,quants
+91,Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:,50 m,72 m,80 m,82 m,a,quants
+92," Theÿ averageÿ ageÿ ofÿ 40ÿ studentsÿ isÿ 8 years.ÿ Ifÿ the age ofÿ teacherÿ isÿ alsoÿ includedÿ , thenÿtheirÿ averageÿ ageÿ increasesÿ by halfÿ aÿ year.ÿ Whatÿ is the ageÿ ofÿ the teacher?", 45 years, 48.5 years,28.5 years,ÿ26.5 yearsÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,c,quants
+93,"Aÿ solutionÿ ofÿ 66ÿ litresÿ containsÿ milkÿ andÿ waterÿ inÿ theÿ ratioÿ 7:x.ÿ Ifÿ fourÿ litresÿ ofÿ waterÿ isÿadded toÿ theÿ solution,ÿ theÿ ratioÿ becomesÿ 3:2,ÿ findÿ theÿ valueÿ ofÿ x?",8,5,3,4,d,quants
+94," A sum of Rs.13000 is divided into three parts such that the simple interests accrued on them for two, three and four years respectively may be equal. Find the amount deposited for 4 years",5000,6000,4000,3000,d,quants
+95," Arjun started a business with Rs. 20,000 and is joined afterwards by Anoop with Rs.30, 000. After how many months did Anoop join if the profits at the end of the year are divided equally?",3,4,5,6,b,quants
+96," Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:",Rs. 169.50ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,Rs. 170ÿÿÿÿÿ,Rs. 175.50 ÿÿÿÿÿÿÿÿÿÿÿ,Rs. 18,c,quants
+97,"Theÿ populationÿ of a townÿ increaseÿ annually by 20% .ÿ Ifÿ theÿ presentÿÿ populationÿ isÿ 2,00,000, thenÿ whatÿ isÿ theÿ differenceÿ inÿ populationÿ afterÿ twoÿ yearsÿ andÿ three years","ÿ63,250","ÿ48,800","60,800","57,600",d,quants
+98,A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?,230 m,240 m,260 m,320 m,a,quants
+99," Theÿ salariesÿ ofÿ A andÿ Bÿ togetherÿ isÿ Rs. 14,000. A spend 80%ÿ ofÿ hisÿ salaryÿ andÿ Bÿ spendsÿ 85%ÿ ofÿ hisÿ salary. Whatÿ isÿ theÿ salaryÿ ofÿ Bÿ ifÿ theirÿ savingsÿ areÿ equal?","Rs. 6,000","Rs. 8,000","Rs. 7,500"," Rs. 6,500",b,quants
+100,"A man moves from A to B at the rate of 4 km/hr. Had he moved at the rate of 3.67 km/hr, he would have taken 3 hours more to reach the destination. What is the distance between A and B?",33 kmsÿ, 132 kmsÿ,36 kmsÿ,144 kms,b,quants
+101,X alone can do a piece of work in 15 days and Y alone can do it in 10 days. X and Y undertook to do it for Rs.720. With the help of Z they finished it in 5 days. How much is paid to Z?,Rs.360ÿ, Rs.120ÿ, Rs.240ÿ, Rs.300,b,quants
+102," If the simple interest on a sum of money at twelve percent per annum for two years is Rs.3800, compound interest on the same sum for the same period at the same rate of interest is", Rs.4028ÿÿÿÿÿÿ ÿÿÿÿÿ ÿÿÿÿÿÿÿ ÿÿÿ,Rs.4100ÿÿ,Rs.4128,Rs.4228,a,quants
+103,The difference between the compound interest and the simple interest on a certain sum at 12% p.a. for two years is Rs.90. What will be the value of the amount at the end of 3 years?, 9000ÿ,6250ÿ,8530.80ÿ,8780.8,d,quants
+104,"One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:",81 min.,108 min.,144 min.,192 min.,c,quants
+105,"The ratio of the number of boys and girls in a college is 7 : 8. If the percentage increase in the number of boys and girls be 20% and 10% respectively, what will be the new ratio?",08:09,17:18,21 : 22ÿÿÿ,Cannot be determined,c,quants
+106,Raghavÿ borrows Rs.2550 to be paid back with compound interest at the rate of 4% per annum by the end of 2 years in two equal yearly instalments. How much will each instalment be ?,Rs.1275ÿÿÿÿÿÿ ,Rs.1283 ,Rs.1352ÿÿÿÿÿÿÿÿÿÿÿ ,Rs.1377,c,quants
+107,A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?,5 sec,6 sec,7 sec,10 sec,b,quants
+108,Simple interest on a certain sum of money for 3 years at 8% per annum is half the compound interest on Rs. 4000 for 2 years at 10% per annum. The sum placed on simple interest is:,Rs.1550ÿÿ,Rs.1650ÿÿÿÿÿÿÿ ,Rs.1750ÿÿÿÿÿÿ ,Rs.2000ÿ,c,quants
+109," The ratio of incomes of two person P1 and P2 is 5 : 4 and the ratio of their expenditures is 3 : 2. If at the end of the year, each saves Rs.1600, then what is the income of P1?",Rs.800 ,Rs.2400 ,Rs.4000 ,Rs3200,c,quants
+110,"Theÿ averageÿ weight ofÿ 29 studentsÿ isÿ 28 kg.ÿ Byÿ theÿ admissionÿ ofÿ aÿ newÿ student,ÿ theÿaverageÿ weightÿ isÿ reducedÿ toÿ 27.8 kg.ÿ Theÿ weightÿ ofÿ theÿ newÿ studentÿ is",22 kg,ÿÿÿ  21.6 kg, 22.4 kg,ÿÿÿ 21 kgÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,a,quants
+111,A man invested an amount of Rs.8000 in a fixed deposit scheme for 2 years at compound interest of 5% per annum. How much amount will Albert get on maturity of the fixed deposit ?,Rs.8600ÿÿÿÿÿÿ ,Rs.8620ÿ,Rs.8820ÿÿÿÿÿÿ ,Rs. 8840,c,quants
+112,"Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in:",6 hours,6  hours 5 minutes,7 hours,7 hours 12 minutes,c,quants
+113,"Ram, who is half as efficient as Krish, will take 24 days to complete a work if he worked alone. If Ram and Krish worked together, how long will they take to complete the work?",16 daysÿ, 12 daysÿÿ, 8 daysÿÿ,18 days,c,quants
+114,"A box contains 3 white balls, 4 black balls and 5 yellow balls. In how many ways can 4 balls be drawn from the box, if at least one yellow ball is to be included in the draw?",652,547,425,356,c,quants
+115,"A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",120 m,240 m,300 m,None of these,b,quants
+116,"A, B and C can do a work in 5 days, 10 days and 15 days respectively. They started together to do the work but after 2 days A and B left. C did the remaining work (in days)",1,3,5,4,d,quants
+117,"There are 28 stations between Ernakulam and Chennai. How many second class tickets have to be printed, so that a passenger can travel from one station to any other station?",800,820,850,870,d,quants
+118,"Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast the other, then the speed of the faster train is:",30 km/hr,45 km/hr,60 km/hr,75 km/hr,c,quants
+119,Ram covers a part of the journey at 20 kmph and the balance at 70 kmph taking total of 8 hours to cover the distance of 400 km. How many hours has been driving at 20 kmph?,2 hoursÿ,3 hours 20 minutesÿ,1hours 40 minutesÿ,3 hours 12 minutes,d,quants
+120,"A tank is filled in 5 hours by three pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank?",20 hours,25 hours,35 hours,Cannot be determined,c,quants
+121,"From a group of 5men and 4 women, 3 persons are to be selected to form a committee so that at least 2 men are there are on the committee. In how many ways can it be done?",20,50,65,86ÿÿÿÿÿÿ ÿÿÿÿÿ,b,quants
+122,There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?, 2 * 19!ÿÿÿÿÿÿÿÿÿÿÿÿÿ,18! * 18ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ, 19! * 18ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,2 * 18!,d,quants
+123," A number when divided by 3 leaves a remainder 1. When the quotient is divided by 2, it leaves a remainder 1. What will be the remainder when the number is divided by 6?",2,3,4,5,c,quants
+124,In how many ways can the letters of the word EDUCATION be rearranged so that the relative position of the vowels and consonants remain the same as in the word EDUCATION?,9!/4ÿÿÿÿ,9!/(4!*5!),4!*5!,None of these,c,quants
+125,Aÿ mixture ofÿ 20 kgÿ ofÿ spiritÿ andÿ waterÿ containsÿ 10%ÿ water.ÿ Howÿ muchÿ waterÿ mustÿ beÿaddedÿ toÿ thisÿ mixtureÿ toÿ raiseÿ theÿ percentageÿ ofÿ waterÿ toÿ 25%,4 kg, 5 kg, 8 kg, 30 kg,a,quants
+126,"When a student weighing 45 kgs left a class, the average weight of the remaining 59 students increased by 200g. What is the average weight of the remaining 59 students?",57 kgsÿÿÿÿÿÿÿÿÿÿÿÿ, 56.8 kgsÿÿÿÿÿÿ,58.2 kgsÿÿ,52.2 kgs,a,quants
+127,Eightÿ kilograms ofÿ riceÿ costing Rs. 16ÿ perÿ kgÿ isÿ mixedÿ with fourÿ kilograms of riceÿ costingÿ Rs. 22 perÿ kg.ÿ Whatÿ isÿ theÿ averageÿ priceÿ ofÿ theÿ mixture?,20,18,16,19ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,b,quants
+128, A girl was asked to multiply a certain number by 43. She multiplied it by 34 and got his answer less thanÿ the correct one by 1206. Find the number to be multiplied.,130,132,134,136,c,quants
+129,"Let n be the number of different 5 digit numbers, divisible by 4 with the digits 1, 2, 3, 4, 5 and 6, no digit being repeated in the numbers. What is the value of n?",144ÿÿ,168,192ÿÿ,None of these,c,quants
+130,"Aÿ sumÿ ofÿ Rs. 395ÿ wasÿÿ dividedÿ amongÿ A, B, andÿ Cÿ inÿ suchÿ aÿ wayÿ thatÿ Bÿ getsÿ 25%ÿ moreÿ thanÿ Aÿ andÿ 20%ÿ moreÿ thanÿ C.ÿ Whatÿ isÿ theÿ shareÿ ofÿÿ A?", Rs.195, Rs.180,Rs. 98, Rs. 120ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,d,quants
+131,2 men and 4 boys can complete a work in 4 days. 5 men and 6 boys can complete the same work in 3 days. The work done by 2 boys is equal to the work of how many men?,4,5,6,7,b,quants
+132,"The average age of a group of 12 students is 20years. If 4 more students join the group, the average age increases by 1 year. The average age of the new students is",24 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,26 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,23 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,22,a,quants
+133,"Ram, Krish and Bhim can complete a work in 30 days. Ifÿÿ Ram and Krish together can complete the same work in 40 days, then how long will Bhim take to complete it?",60,80,100,120,d,quants
+134,A mixture of 85 kg contains milk and water in the ratio 27 : 7. How much more water is to be added to get a new mixture containing milk and water in the ratio 3:1?,5 kgÿÿÿÿ ,6.5 kgÿÿÿÿÿÿÿÿÿÿ ,7.5 kgÿÿÿÿÿÿÿÿÿ ,8 kg,a,quants
+135,"Theÿ sumÿ ofÿ theÿ firstÿ eightÿ termsÿ ofÿ aÿ geometricÿ seriesÿ isÿ 10,001ÿ timesÿÿ theÿ sumÿ ofÿ itsÿ fourÿ terms .ÿ Findÿ theÿ commonÿ ratioÿ ofÿ theseÿ series","1,000",9,10,100ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,c,quants
+136,Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073. The sum of the three numbers is:,75,81,85,89,c,quants
+137,"A and B started a business investing Rs. 90,000 and Rs 20,000 respectively. In what ratio the profit earned after 2 years be divided between A and B respectively?",09:02,03:02, 18:20,18:04,a,quants
+138,"A can finish a work in 20 days, B in 15 days and C in 12 days. B and C start the work but are forced to leave after 2 days. The remaining work was done by A in :",10,11,13,14,d,quants
+139," If the simple interest on a sum of money for 2 years at 5% per annum is Rs.50, what is the compound interest on the same at the same rate and for the same time?",Rs. 52 ÿÿÿÿÿÿÿÿÿ ,Rs. 51.25ÿÿÿÿÿ ,Rs. 54.25 ÿ ÿÿ ,Rs. 60,b,quants
+140,"Findÿ theÿ numberÿ ofÿ terms inÿ anÿ arithmeticÿ progressionÿÿ withÿ theÿ firstÿ termÿ 2ÿ andÿ theÿ lastÿ termÿ being 62, givenÿ thatÿ commonÿ differenceÿ isÿ 2.",31,40,22,27,a,quants
+141,If the annual rate of simple interest increases from 10% to 12.5% .Then a man?s yearly income from an investment increases by Rs.1250. His principle amount is:,"Rs,45000ÿÿÿÿ ","Rs.50,000ÿÿÿÿ ","Rs. 60,000ÿÿ ","Rs.65,000",b,quants
+142,"A tap can fill a tank in 6 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?",3 hrs 15 min,3 hrs 45 min,4 hrs,4 hrs 15 min,b,quants
+143, The interest on a certain deposit at 4.5% p.a. is Rs. 405 in one year. How much will the additional interest in one year be on the same deposit at 5% p.a. ?,Rs.50ÿÿÿÿÿÿÿÿÿÿÿ ,Rs. 45ÿÿÿÿÿÿÿÿÿ ,Rs.40.5ÿÿÿÿÿÿÿÿ ,Rs. 48.5,b,quants
+144,"Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?",4,10,15,16,d,quants
+145,"Theÿ sumÿ ofÿ theÿ termsÿ ofÿ anÿ infiniteÿ G.Pÿ isÿ 7ÿ andÿ theÿ sumÿ ofÿ theÿ cubesÿ ofÿ theÿ termsÿ isÿ 1,225.ÿ Findÿÿ theÿ firstÿ termÿ ofÿ theÿ series.",35/3,35/2,15-Feb,9/4ÿ,a,quants
+146,A man can rowÿ a boat at 10 kmph in still water andÿ the speed of the stream is 8 kmph. What is the time taken to row a distance of 90 km down the stream ?,8hrs,5 hrsÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ,15 hrs ÿÿÿÿÿÿÿÿ ,20 hrs,b,quants
+147,"The difference of two numbers is 1365. On dividing the larger number by the smaller, we get 6 as quotient and 15 as reminder. What is the smaller number ?",240,270,295,360,b,quants
+148,Pipe A can fill a tank in 12 hours. Due to a leak at the bottom it takes 20 hours to fill the tank. In what time the leak alone can empty the full tank?,18 hours, 23 hours, 28 hours, 30 hours,d,quants
+149,A merchant marks his goods up by 75% above his cost price. Whatis the maximum % Amount that he can offer so that he ends up sellingat no profit or loss?,75%,46.67%,300%,42.85%,c,quants
+150,"A, B, C subscribe Rs. 50000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs.35000 A receives:",Rs. 11900, Rs. 8400, Rs. 14700,Rs. 13600,c,quants
+151,"It takes 10 days for digging a trench of 100 m long, 50 m broad and 10 m deep.ÿ What length of trench,25 m broad and 15 m deep can be dug in 30 days ?",400 mÿÿÿÿÿÿÿÿÿ ,200 mÿÿÿÿÿÿÿÿÿ ,100 m ÿÿÿÿÿÿÿÿ , 89m,a,quants
+152,Average cost of 5 apples and 4 mangoes is Rs.36. The average cost of 7 apples and 8 mangoes is Rs.48. Find the total cost of 24 apples and 24 mangoes.,Rs.1044ÿÿÿÿÿÿÿÿÿÿÿÿÿ, RS.2088 ÿÿÿÿÿÿÿÿÿ,Rs.720ÿÿ, Rs.324,b,quants
+153,A merchant marks his goods in such a way that the profit onsale of 50 articles is equal to the selling price of 25 articles.What is his profit margin?,25%,50%,100%,66.67%,b,quants
+154,"The ratio of investments of A, B and C is 5:6:7. If they share the profit in the ratio of 5:9:14, then find the ratio of their periods of investments.",02:03:04,03:05:06, 3:2:4, 2:4:3,a,quants
+155,"P and Q invested in a business. They earned some profit which they divided in the ratio of 2:3. If P invested Rs.60, 000, the amount invested by Q is:","Rs. 65,000","Rs. 70,000","Rs. 80,000"," Rs. 90,000",d,quants
+156,"Fiveÿ timesÿ theÿ fifthÿ termÿ ofÿ anÿ A.Pÿ isÿ equalÿ toÿ sixÿ timesÿ theÿ sixthÿ termÿ ofÿ theÿ A.P,ÿ Whatÿ isÿ theÿ valueÿ ofÿ theÿ eleventhÿ term?",1,5,0,2,c,quants
+157,"Two pipes A and B can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, then how long will it take to fill the tank?",12 min,15 min,25 min,50 min,a,quants
+158,A person can row 750 metresÿ against the stream in 11 1by4 minutes and returns in 7 and half minutes. The speed of the person in the still water is :,2 km/hr,3 km/hrÿÿÿÿÿÿÿÿ ,4km/hrÿÿÿÿÿÿÿÿÿ ,5 km/hr,d,quants
+159,Findÿ theÿÿ lastÿ termÿÿ ofÿ aÿ G.P whoseÿ firstÿ termÿ isÿ 9ÿ andÿ commonÿ ratio is ( 1/3 )ÿ ifÿ theÿ sumÿ ofÿ theÿ termsÿ ofÿ theÿ G.Pÿ is ( 40/3 ),1 by 3,2 by 5,¬,2/3ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,a,quants
+160,"Speed of a boat in still water is 16km/h. If it can travel 20km downstream in the same time as it can travel 12 km upstream, the rate of stream is.ÿ",1km/hÿ,2km/hÿ,4km/hÿ,5km/h,c,quants
+161,"If??? means is less than?, ?$? means ?is greater than?and œ?means ?is equal to?and given thatÿa? b,cœd and c$b,then which of the following is true ?",d?a,b$d,a?b?c,a?c,a,reasoning
+162,"A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is the total amount?", Rs. 14000ÿÿ,Rs. 15000ÿÿ, Rs. 20000ÿÿ,None of these,a,quants
+163,"The width of a rectangular hall is half of its length. If the area of the hall is 450 sq.m, what is the difference between its length and breadth?",8m,10m,12m,15m,d,quants
+164,"A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",45 km/hr,50 km/hr,54 km/hr,55 km/hr,b,quants
+165,A trader makes a profit equal to the selling price of 75articles when he sold 100 of the articles. What % profit did he make in the transaction?,33.33%,75%,300%,150%,c,quants
+166,"Vijay invested Rs.50,000 partly at 10% and partly at 15%. His total income after a year was Rs.7000. How much did he invest at the rate of 10%?","Rs.40,000ÿ","Rs.40,000ÿ","Rs.12,000ÿ","Rs.20,000",b,quants
+167," Anand and Deepak started a business investing Rs. 22,500 and Rs. 35,000 respectively. Out of a total profit of Rs. 13,800, Deepak?s share is :", Rs. 5400, Rs.7200,Rs. 8400,Rs. 9600,c,quants
+168,"Rs.900 is divided among Maya, Annie, Saiji so that Maya receives half as much as Annie and Annie half as much as Saiji. Then Saiji?s share is :",Rs.200, Rs.300,Rs.400, Rs.600,c,quants
+169,Thereÿ areÿ nÿ arithmeticÿ meansÿ betweenÿ 3ÿ andÿ 45ÿ suchÿ thatÿ theÿ sumÿ ofÿ theseÿ arithmeticÿ meansÿ isÿ 552.ÿ findÿÿ theÿ valueÿÿ ofÿ n.,11,15,17,23,d,quants
+170,"Introducing a man to her husband, a woman said, ?His brother?s father is the only son of my grandfather.? How is the woman related to this man?",Mother,Aunt,Sister,daughter,c,reasoning
+171,How many words can be formed by re-arranging the letters of the word ASCENT such that A and T occupy the first and last position respectively?,5!ÿÿÿÿÿ,4!ÿÿÿÿÿÿÿÿÿÿÿÿ,6! - 2!ÿÿÿÿÿÿÿ,6! / 2!,b,quants
+172,Findÿ theÿ commonÿ ratioÿ ofÿ threeÿ numbersÿ inÿ G.Pÿ whoseÿ productÿ isÿ 216ÿ andÿ theÿ sumÿÿ ofÿ theÿ productsÿ takenÿ inÿ pairsÿ isÿ 114.,2ÿ orÿ «,2/3 or 3/2,? orÿ 4/3,4ÿ orÿ ¬ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,b,quants
+173, In how many ways can 22 books on English and 20 books on Hindi be placed in a row on a shelf so that two books on Hindi may not be together?,4586,5896,2415,1771,d,quants
+174,A letter lock has 3 rings each containing 6 letters. What is the maximum number of false trials that can be made before the lock is opened?, 3*26C6, (26C6)3,ÿ26C6. 3!,215,d,quants
+175,"Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",4,5,6,8,a,quants
+176,"Renu can do a piece of work in 6 days, but with the help of her friend Suma , she can do it in 4 days. In what time Suma can do it alone?",10,12,14,15,b,quants
+177,The salaryÿ ofÿ all officersÿ isÿ increasedÿ twice successivelyÿ byÿ 20%.ÿ Whatÿ isÿ theÿ netÿ percentageÿ increaseÿ inÿ theirÿ salaries?,20%,ÿ40%,21%,44%,d,quants
+178,"By how many degrees does the hour hand lag behind the minute handÿ in a span of 42 minutes, if initially they are at the same position?
+
+",233 degree,211 degree,231 degree,None of these,c,reasoning
+179, If Arun?s birthday is on May 25 which is Monday and his sister?s birthday is on July 13. Which day of the week is his sister?s birthday?,Mondayÿÿÿÿ ÿ,Wednesdayÿÿ,Thursdayÿÿÿÿÿÿÿÿÿ,Friday,a,reasoning
+180,Vishwanath was walking on the road early morning after the sunrise and his shadow was failing to his left. Which direction was he facing?,East,North, West,Either  East or West,b,reasoning
+181,A sum of money is borrowed and paid back in two annual installments of Rs.882 each allowing 5% compound interest. The sum borrowed was :,Rs.1620ÿÿÿÿÿÿ ,Rs. 1640ÿ,Rs.1680 ,Rs.1700,b,quants
+182,"If a man rows at the rate of 6 kmph in still water and his rate aginst the current is 4.5 kmph, then the man?s rate along the current is",6 kmphÿ ,7.5 kmphÿÿÿÿ ,6.5kmphÿÿÿÿÿ ,8 kmphÿÿÿÿÿÿÿ,b,quants
+183," A sum of Rs. 1360 has been divided among A, B and C such that A gets 2 /3 of what B gets and B gets 1 / 4 of what C gets. B's share is:",Rs.120ÿÿÿ,Rs. 160ÿÿÿ,Rs.240ÿÿÿ,Rs.300,c,quants
+184,"Manu, Manju and Maya can do a work in 90, 30 and 45 days respectively. If they work together, in how many days will they complete work?",15,10,20,25,a,quants
+185,"A team of 8 students goes on an excursion, in two cars, of which one can seat 5 and the other only 4. In how many ways can they travel?",9ÿÿÿÿÿÿÿÿ,26ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,126ÿÿÿÿÿÿÿÿÿÿÿÿÿ,3920,c,quants
+186,The speeds of three motor bikes are in the ratio 6 : 5 : 4.ÿ The ratio between the time taken by them to travel the same distance is :,10:12:15,12 : 10 : 8ÿÿÿ ,15 : 12: 10ÿÿ ,10:15:12,a,quants
+187,A trader professes to sell his goods at a loss of 8% but weights900 grams in place of a kg weight. Find his real loss or gain percent.,2% loss, 2.22% gain, 2% gain, None ofthese,b,quants
+188," How many words with or without meaning, can be formed by using all the letters of the word, ?ORANGE?, using each letter exactly once?",700,720,750,800,b,quants
+189, A and B can do a work in 60 days; B and C can do it in 120 days; A and C can do it in 80 days. In what time A alone can do the work?,100,90,80,70,b,quants
+190,"Ifÿ?x?means 'added to'ÿ?ö?means 'multiplied by';ÿ?+?means 'subtracted from' andÿ?-? means ?divided by',then simplify 24+36-12x 8ö4= ?",36,53,5,20,b,reasoning
+191,A number when divided b the sum of 555 and 445 gives two times their difference as quotient and 30 as the remainder. The number is:,1220ÿÿ,1250ÿ,22030,22030,d,quants
+192," 40 men can catch 200 sharks in 20 days working 6 hours a day. In how many days 25 men can catch 300 sharks working 4 hours a day?
+",30,34,24,20,c,quants
+193,One-fifth of Ramu?s expenditure is equal to one-half of his savings. If his monthly income is Rs.6300 how much amount does he save?,ÿRs.1550,Rs.1800,ÿRs.2000,Rs.2350,b,quants
+194,A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?,230 m,240 m,260 m,270 m,d,quants
+195,"There is enough provisions for 600 men in an army camp for 25 days. If there were 300 men less, how long will the provision last?",35 days, 40 days, 45 days, 50 days,d,quants
+196," If ?-? stands for ?x?,ÿ ?x? stands for ?+?,ÿ ?+?stands for ?ö? and ?ö? stands for ?-?,then what is the value of 9ö18x15+3-6x12 ?",24 ÿ ÿ ÿ ÿ ÿ ÿ ÿ ÿ ,30,33,42,c,reasoning
+197,"In how many ways can 5 letters be posted in 3 post boxes, if any number of letters can be posted in all of the three post boxes?",5C3ÿÿÿ, 5P3ÿÿÿÿÿÿÿÿÿÿÿ, 53ÿÿÿÿÿÿÿÿÿÿÿÿ,35,d,quants
+198,"6. How many of the following numbers are divisible by 3 but not by 9?2133, 2343, 3474, 4131, 5286, 5340, 6336, 7347, 8115, 9276",5,6,7,None of these,b,quants
+199,In a company 10% of male staff are same in number as 1/4thÿof the female staff. What is the ratio ofÿmale staff to female staff,3 : 2ÿÿÿÿÿÿÿÿÿÿÿÿ ,5 : 2ÿÿÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿÿÿÿ ,2 : 1ÿÿÿÿÿÿÿÿÿÿÿÿ ,04:03,b,quants
+200,The difference between simple interest and compound interest on Rs.1200 for one year at 10% per annum reckoned half-yearly is :,Rs.2.50ÿ,Rs.3 ÿÿÿÿÿÿÿÿÿÿÿ ,Rs.3.75ÿÿÿÿÿÿÿÿ ,Rs.4,b,quants
+201,"What will Rs.1500 amount to in three years if it is invested in 20% p.a. compound interest, interest being compounded annually?",2400ÿ,2592ÿ,2678ÿ,2540,b,quants
+202,Whatÿ isÿ theÿ sumÿ ofÿ theÿ firstÿ 15ÿ termsÿ ofÿ anÿ A.Pÿ whoseÿ 11 thÿ andÿÿ 7 thÿ termsÿ areÿ 5.25ÿ andÿ 3.25ÿ respectively,56.25,60,52.5,Noneÿ ofÿ theseÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,a,quants
+203,A can do a work in 14 days and working together A and B can do the same work in 10 days. In what timeÿcan B alone do the work?,25 days,30 days, 23 days, 35 days,d,quants
+204,"If a number is chosen at random from the set {1, 2, 3?, 100}, then the probability that the chosen number is a perfect cube is", 1/25,1 by 2,4 by 13,1 by 10,a,quants
+205,"A man has some hens and cows. If the number of heads be 48 and the number of feet equals 140, then the number of hens will be:",22,23,24,26,d,quants
+206, Rohit and Rohan can complete a work in 12 days and 6 days respectively. How much time will they take when working together?,4,3,5,2,a,quants
+207,A wheel rotates 10 times every minute and moves 20 cm during each rotation. How many metres does the wheel move in one hour?,6 metre ÿÿÿÿÿÿ ,12 metre ÿÿÿÿ ,120 metreÿÿÿ ,1200 metre,c,quants
+208," How long will it take for a sum of money to grow from Rs.1250 to Rs.10,000, if it is invested at 12.5% p.a simple interest?",8 yearsÿ,64 yearsÿ, 72 yearsÿ,56 years,d,quants
+209,"In one hour, a boat goes 11km along the stream and 5km against the stream.The speed of the boat in still water (in km/hr)is:",3,5,8,9,c,quants
+210," Findÿ theÿ firstÿ termÿ andÿ theÿ commonÿ ratioÿ ofÿ aÿ G.Pÿ whoseÿ fourthÿÿ termÿÿ isÿ 250ÿ andÿ seventhÿ termÿ isÿ 31,250","2,25","4,5","1,16","2,5ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ",d,quants
+211,The price of a T.V. is increased 30% before budget and inbudget 20% is also increased. Then total increase in price will be,50%,56%,55%,59%,d,quants
+212, A boat moves upstream at the rate of 1 km in 20 minutes and down stream 1 km in 12 minutes. The speedÿ of the current is :,1 kmph ,2 kmphÿÿÿÿÿÿÿÿ ,3 kmphÿÿÿÿÿÿÿÿ ,2.5 kmph,a,quants
+213,"Ifÿ sumÿ ofÿ threeÿ numbersÿ inÿ A.Pÿ isÿ 33ÿ andÿ sumÿ of theirÿÿ squaresÿ idÿ 491,ÿ thenÿ whatÿ areÿ theÿ threeÿ numbers.","5,11,17","7,11,15","9,11,13","3,11,19ÿÿ",d,quants
+214," How many words of 4 consonants and 3 vowels can be made from 12 consonants and 4 vowels, if all the letters are different?",16C7 * 7!ÿÿ,12C4 * 4C3 * 7!ÿÿ,12C3 * 4C4ÿÿ,12C4 * 4C3,b,quants
+215,A year starting with Monday and ending with Tuesday. How many days are there from 16th January to 15th March of  that year.,58,60,59,61,b,reasoning
+216,"A train which has 390 m long, is running 45 kmph. In what time will it cross a person moving at 9 kmph in same direction ?",26 secÿÿÿÿÿÿÿÿÿ ,39 secÿÿÿÿÿÿÿÿÿ ,36 secÿÿÿÿÿÿÿÿÿÿ ,29 sec.,b,quants
+217," 9 men can do a work in 12 days working 4 hours a day. In how many days can 6 men do the same work, working 8 hours a day?",18,9,10,8,b,quants
+218,The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:,276,299,322,345,c,quants
+219,"The least number which when divided by 5, 6 , 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",1677,1683,2523,3363,b,quants
+220,A is twice as good a workman as B and together they complete a work in 12 days. In how many days A alone can do the work?,32,34,35,36,d,quants
+221,"p,q and r are three positive numbers and Q=(p+q+r) by 2; If (Q-p):(Q-q):(Q-r) = 2:5:7, then find the ratio of p,q and r ?",04:03:07,12:09:07,9:7:4ÿÿÿÿ,04:03:02,b,quants
+222,Theÿ firstÿ termÿ ofÿ anÿ arithmeticÿ progressionÿ is 3ÿ andÿ theÿ 10ÿthÿÿ termÿ isÿ 21.ÿ Findÿ 15 thÿ andÿ 22 ndÿ terms.,"21,35","31,45","30,46","29,40ÿÿÿÿÿÿÿÿÿÿ",b,quants
+223," In a group of donkeys and pigs, the numbers of legs are 16 more than twice the number of heads. The number of donkeys is",6,8,11,13,b,quants
+224," When a number is divided by 31, the remainder is 29. When the same number is divided by 16, what will be the remainder?",11,13,15,data inadequeate,d,quants
+225,What  quantity   of  water  should  be added  to  reduce  5 litres  of  45%   acidic  liquid   to  25%   acidic  liquid?,3litres,2litres, 4litres, 4.5litresÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,c,quants
+226,"In how many ways can the letters of the word, ?LANGUAGE? be arranged in such a way that the vowels always come together?",600,700,720,750,c,quants
+227,"In how many ways can the letters of the word, ?KEYBOARD? be arranged in such a way that the vowels always come together?",4250,4520,4320,4230,c,quants
+228," A number when divided successively in order by 4, 5 and 6. The remainders were respectively 2, 3 and 4. The number is:",214,476,954,1908,a,quants
+229,Findÿ theÿ 15thÿÿtermÿ ofÿ anÿ arithmeticÿ progressionÿ whoseÿ firstÿ termÿ isÿ 2ÿ andÿ theÿ commonÿ differenceÿ isÿ 3.,45,38,44,40,c,quants
+230,"A number when divided by 6 leaves a remainder 3. When the square of the same number is divided by 6, the remainder is:",0,1,2,3,d,quants
+231,"How many ways can the letters of the word, ?MACHINE? be arranged so that the vowels may occupy only the odd positions?",210,576,144,456,b,quants
+232,"In a 1000 m race Usha beats Shiny by 50 m. In the same race, by what time margin Shiny beat Mercy who runs at 4 m/s ?",100 sec.ÿÿÿÿÿÿ ,50 secÿÿÿÿÿÿÿÿ ,25 secÿÿÿÿÿÿÿÿÿ ,Data not sufficient,b,quants
+233," The ages of Raju and Bijuÿ are in the ratio 3:1. Fifteen years hence, the ratio will be 2:1. Their present ages are:","30yrs, 10yrs ÿÿÿÿÿÿÿÿÿÿÿ ","45 yrs, 15yrsÿ ","21 yrs, 7 yrs ÿÿÿÿÿÿÿÿ ","60yrs, 20yrs",b,quants
+234,"A and B together have Rs. 1210. If 4by15 of A's amount is equal to 2 by 5 of B's amount, how much amount does B have?",Rs. 460ÿÿ,Rs. 484ÿÿ,Rs. 550,Rs. 664,b,quants
+235,Theÿ 5ÿthÿ termÿÿ andÿ 21ÿstÿ termÿ ofÿ aÿ seriesÿ inÿ A.Pÿ areÿ 10ÿ andÿ 42ÿ respectively.ÿÿ Findÿ theÿ 31 stÿ term.,50,55,65,62ÿÿ ÿÿÿÿÿÿÿÿÿ,d,quants
+236,"Theÿ averageÿ ofÿ 2,7,6 andÿ xÿ isÿ 5ÿÿ andÿ theÿ averageÿ ofÿ 18,1,6,xÿ andÿ yÿ is 10.ÿ Whatÿ isÿ theÿvalueÿ ofÿ y?",5,ÿÿÿ 10,ÿÿÿ  20,ÿÿÿ  30ÿÿÿÿÿÿÿÿÿÿÿ,c,quants
+237,Theÿ sumÿ ofÿ theÿ firstÿ fiveÿ termsÿ ofÿ aÿ G.P isÿ 363.ÿ Ifÿ theÿ commonÿ ratioÿ isÿ 1/3ÿ findÿ theÿ firstÿ term.,323,243,232,332,b,quants
+238,"Pointing to Manju, Raju said, ?The son of her only brother is the brother of my wife?. How is Manju related to Raju?",Mother?s sister,Grandmother,Mother-in-law,Sister of father-in-law,d,reasoning
+239,"A bag contains 2 yellow balls, 3 white balls and 5 red balls. In how many ways can two balls be drawn from the bag?",2C2,10C2,8C2,5C2,b,quants
+240,The average of 5 quantities is 6. The average of 3 of them is 8. What is the average of the remaining two numbers?,6.5,4,3,3.5,c,quants
+241,How many different words can be formed from the word DAUGHTER so that ending and beginning letters are consonants?,7200,14400,360,1440,b,quants
+242,"By walking at 3/4th of his usual speed, a man reaches office 20 minutes later than usual. What is his usual time?",30 min ÿÿÿÿÿÿÿÿÿÿÿ, 60 min ÿÿÿÿÿ, 70 min ÿÿÿÿÿ,50 min,b,quants
+243,Some ladies can do a piece of work in 12 days. Two times the number of such ladies will do half of that work in :,6 daysÿÿÿÿÿÿÿÿÿ ,4 daysÿÿÿÿÿÿÿÿ ,12 days ÿÿÿÿÿÿÿ , 3 days,d,quants
+244,"How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters?",510ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,105ÿÿÿÿÿÿÿÿÿÿÿ,10P5ÿ,10C5,a,quants
+245,"The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",200 m,225 m,245 m,250 m,c,quants
+246, 3 workers transfer a tool weighing 120kg in 12 seconds. How many men are required to transfer it in 9 seconds?,4,5,6,8,a,quants
+247,If apples are bought at the rate of 30 for a rupee. How manyapples must be sold for a rupee so as to gain 20%?,28,25,20,22,b,quants
+248,"5b2 is a three-digit number with b as a missing digit. If the number is divisible by 6, the missing digit is:",2,3,6,7,a,quants
+249, If A is thrice as fast as B and together can do a work in 21 days. In how many days A alone can do the work?,36,42,28,54,c,quants
+250, The average of 5 quantities is 10 and the average of 3 of them is 9. What is the average of the remaining 2?,11ÿÿÿÿÿÿ, 12ÿÿÿÿÿÿÿÿÿÿÿÿ, 11.5ÿÿÿÿÿÿÿÿÿÿ,12.5,c,quants
+251, A sum of money becomes triple itself in 16 years. In how many years will it become 5 times at the same rate?,32,15,27,30,a,quants
+252,In how many ways can a committee consisting of 4 men and 5 women be formed from a group of 7 men and 9 women?,7C4ÿÿ9C5,4C7ÿÿ5C9,7C5 ÿ9C4,ÿ9C4ÿÿ7C5,a,quants
+253,"A, B, C hired a car for Rs. 720 and used it for 9, 10 and 13 hours respectively. Hire charges paid by B are:",Rs 220,Rs.225, Rs.230, Rs.235,b,quants
+254,ÿMr.Ramu?s mother?s father-in-law?s only son?s only daughter?s son is Chetan. How is Ramu related to Chetan?,Uncle,Nephew,Niece,Father,a,reasoning
+255,In how many ways can 15 people be seated around two round tables with seating capacities of 7 and 8 people?,15!*(8!)ÿÿÿÿÿÿÿÿÿÿÿÿ,7!*8!ÿÿÿÿÿÿÿÿÿÿÿÿ, (15C8)*6!*7!ÿÿÿÿÿÿÿÿÿÿÿÿ,2*(15C7)*6!*7!,c,quants
+256,"The greatest possible length which can be used to measure exactly the lengths 7 m, 3 m 85 cm, 12 m 95 cm is",15 cm,25 cm,35 cm,42 cm,c,quants
+257," Rajiv sold an article for Rs.56 which cost him Rs.x. If he hadgained x% on his outlay, what was his cost?",Rs. 40, Rs.45, Rs. 36,Rs. 28,a,quants
+258,"What is the value of 1*1! + 2*2! + 3!*3! + ............ n*n!, where n! means n factorial or n(n-A(n-2)...1",n(n-A(n-A!))ÿÿÿÿ, (n+A!)*(n(n-A))ÿÿÿÿÿ, (n+A! - n!)ÿ , (n + A! - 1!),d,quants
+259,"The H.C.F. of two numbers is 11 and their L.C.M. is 7700. If one of the numbers is 275, then the other is:",279,283,308,318,c,quants
+260," The sum of three prime numbers is 100. If one of them exceeds another by 36, then one of the numbers is:",7,29,41,67,d,quants
+261,"If 4 (A?s capital) = 6 (B?s capital) = 10 (C?s capital), then out of a profit of Rs.4650, C will receive:",Rs.2250,Rs.1550,Rs.900,Rs.465,c,quants
+262,"By how many degrees does the minute hand move in the same time, in which the hour hand move by 18 degree?",168 degree,216 degree,196 degree,276 degree,b,reasoning
+263,The largest natural number which exactly divides the product of any four consecutive natural numbers is:,6,12,24,120,c,quants
+264,In how many ways can 5 boys and 3 girls sit around a table in such a way that no two girls sit together?,1000,1400,1440,1800,c,quants
+265,"Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",4,7,9,13,a,quants
+266,"The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:",3,13,23,33,c,quants
+267,A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?,120 metres,180 metres,324 metres,150 metres,d,quants
+268,A train 575 m long crosses a tunnelÿ of length 325ÿ in 90 sec. What is the speed of the train in kmph.,28ÿ,32ÿ,36ÿ,24ÿ,c,quants
+269,"If athulÿ rows 16 km upstream and 24 km down steamÿ taking 4 hours each, then the speed of the stream",1kmph,2kmphÿ,1.5 kmphÿÿÿÿÿ ,12 kmph,a,quants
+270,"The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:",101,107,111,185,c,quants
+271,"By how many degrees does the minute hand move in the same time, in which the hour hand move by 280 ?ÿ",168,336,196,376,b,reasoning
+272,A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?,40 sec,42 sec,45 sec,48 sec,a,quants
+273,A letter lock has 3 rings each containing 6 letters. How many such three letter passwords can exist?,216,26C6ÿ*3,(26C6)3, (26C6)3ÿ*63,d,quants
+274,"In the time in which the second hand covers 3960 degrees, how many degrees does  the hour hand move?",11,5.5,3 by 4,55,b,reasoning
+275,A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long,65 sec,89 sec,100 sec,150 sec,b,quants
+276,"X, Y and Z contract a work for Rs. 1100. X and Y together are to do 7 /11of the work. C?s share is:", Rs.366.6,Rs.400, Rs.600,Rs.800,b,quants
+277,"If the speed of a man is 45 km per hour, then what is the distance traveled by him in 30 seconds ?",275m,360mÿ,375 m,420 m,c,quants
+278,"The least number, which when divided by 12, 15, 20 and 54 leaves in each case a remainder of 8 is:",504,536,544,548,d,quants
+279,What is the angle between the two hands of a clock when the time shown by the clock is 6.30 p.m. ?, 00ÿÿÿÿÿÿÿÿÿÿÿÿ,50ÿÿÿÿÿÿÿÿÿÿÿ,30ÿÿÿÿÿÿÿÿÿÿÿ,150,d,reasoning
+280," How many degrees will the minute hand move, in the same time in which the second hand move 4800 ?",60,90,40,80,d,reasoning
+281,"A watch shows 4.30. If the minute hand points to east, in what direction will the hour hand point?",North-west,South-east,North-east,North,c,reasoning
+282,Two numbers are respectively 20% and 50% more than a third number.The ratio of the two numbers is,2 : 5ÿÿÿÿ,3 : 5ÿÿÿÿ,4 : 5ÿÿÿÿ,06:07,c,quants
+283,"What will be the least number which when doubled will be exactly divisible by 12, 18, 21 and 30 ?",196,630,1260,2520,b ,quants
+284,"How many of the following numbers are divisible by 132?264, 396, 462, 792, 968, 2178, 5184, 6336",4,5,6,7,a,quants
+285, The sum of three consecutive odd numbers is always divisible by  I. 2ÿÿ II. 3ÿÿÿÿIII. 5ÿÿ IV. 6,only 1,only 2,only  1 and 2,only 2 and 4,b,quants
+286, At what rate of compound interest per annum will a sum of Rs.1200 become Rs.1348.32 in 2 years?, 6%ÿÿ ÿÿÿÿÿÿÿÿÿÿÿ ÿÿ ,6.50%,7%ÿ,7.50%,a,quants
+287,How many number of times will the digit '7' be written when listing the integers from 1 to 1000?,271ÿÿÿÿ,300ÿÿÿÿÿÿÿÿÿÿÿÿ,252ÿÿÿÿÿÿÿÿÿÿÿ,304,b,quants
+288,ÿWhat is the angle between the two hands of a clock when the time shown by the clock is 5:30 pm?,00ÿ,50ÿÿÿÿ,30ÿÿ,ÿÿÿÿÿÿÿ   ÿ 150,d,reasoning
+289,"How many ways can 4 prizes be given away to 3 boys, if each boy is eligible for all the prizes?",256ÿÿÿÿ,12ÿÿÿÿÿÿÿÿÿÿÿÿ,81ÿÿÿÿÿÿÿÿÿÿÿÿ,None of these,c,quants
+290,"The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:",123,127,235,305,b,quants
+291,The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is:,28,32,40,64,c,quants
+292,.    The difference between the local value and face value of 7 in the      numeral 657903 is:,0,7896,6993,903,c,quants
+293, Addingÿ 20%ÿ ofÿ xÿ toÿ xÿ isÿ equivalentÿ toÿ multiplyingÿ xÿ byÿ whichÿ ofÿ theÿ following?,12.5,ÿ1.05,1.15,1.2,d,quants
+294,What is the probability of getting at least one six in a single throw of three unbiasedÿdice?,1 by 6,125/216ÿÿÿÿÿÿÿ ,1 by 36,91/216,d,quants
+295,". 2012 January 1st is Sunday, then which day is the Indian Independence day of the same year.",ÿSaturdayÿÿÿÿÿÿÿÿÿÿÿ,Wednesdayÿÿÿÿÿÿÿÿÿÿÿ, Thursdayÿÿÿÿÿÿÿÿÿÿÿ,Friday,b,reasoning
+296,"Find the greatest number of five digits, which is exactly divisible by 7, 10, 15, 21 and 28.",99840,99900ÿ,99960ÿ,99990,c,quants
+297,"Out of 6 consonants and 3 vowels, how many words of 4 consonants and 2 vowels can be formed?",1050,25200,32400,5800,c,quants
+298,How many numbers are there between 100 and 1000 such that at least one of their digits is 6?,648ÿÿÿÿ,258ÿÿÿÿÿÿÿÿÿÿÿ,654ÿÿÿÿÿÿÿÿÿÿÿÿ,252,d,quants
+299,"If x is an integer, find the minimum value of x such that 0.00001154111 x 10 ^xexceeds 1000.",8,1,7,6,a,quants
+300," The least number by which 72 must be multiplied in order to produce a multiple of 112, is:",6,12,14,8,c,quants
+301,"The least multiple of 7, which leaves a remainder of 4, when divided by 6, 9, 15 and 18 is:",74,94,184,364,d,quants
+302,A is the husband of B. E is the daughter of C. A is the father of C. How is B related to E?,Mother,Grandmother,Aunt,Cousin,b,reasoning
+303,The least number which must be subtracted from 6709 to make it exactlyÿ divisible by 9 is:,2,3,4,5,c,quants
+304," On dividing a number by 999, the quotient is 366 and the remainder is 103. The number is:",364724ÿ,365387ÿ,365737ÿ,366757,c,quants
+305," If 96 is divided intoÿ four parts proportional toÿ 5, 7, 4, 8 then the smallest part is :",16ÿÿ,14ÿÿ,20ÿ,18,a,quants
+306,"The compound interest on Rs.30,000 at 7% per annum is Rs. 4347. The period (in years) is:", 2 ÿÿÿÿ ÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ,6,3,4,a,quants
+307,The Price of 357 apples is Rs.2499. What will be theÿ price of 49 dozens of such apples?,Rs.3800 ÿÿÿÿÿ ,Rs.2816ÿÿÿÿÿÿ ,Rs.4116ÿÿÿÿÿÿÿ ,Rs.3116,c,quants
+308,Findÿ theÿ averageÿ ofÿ allÿ the numbersÿ betweenÿ 6 and 34ÿ whichÿ areÿ divisibleÿ by 5,18,20ÿ,24,30ÿÿ,b,quants
+309," If (a ? b) is 9 more than (c + d) and (a + b) is 3 less than (c ? d), then (a ? c) is:",6,2,3,None of these,c,quants
+310,The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:,1,2,3,4,b,quants
+311,"The smallest number which when diminished by 7, is divisible 12, 16, 18, 21 and 28 is:",1008,1015,1022,1032,b,quants
+312,Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:,40,80,120,200,a,quants
+313,"If 0.4 of a number is equal to 0.06 of another number, the ratio of the numbers is :",2 :3ÿÿÿÿÿ ,3 :4ÿ ÿÿ,3:20ÿÿÿÿÿÿÿÿÿÿ ,20:03,c,quants
+314," If ?+?means ?ö?,ömeans ?x? ,?x? meansÿ ?-? and ?-? means ?+? ,then 10+2ö5-3ö4+2-1=?",32,50,45,120,a,reasoning
+315,Theÿ averageÿ ofÿ 7 consecutive numbers is 20. The largestÿ ofÿ theseÿ numbersÿ is,20,ÿÿÿ 22,ÿÿÿ  23,ÿÿÿ 24ÿÿÿÿÿÿÿ,c,quants
+316,H.C.F. of two numbers is 16. Which one of the following can never be their L.C.M,32,80,64,60,d,quants
+317,The value of 40 coins of 10 p and 20 p is Rs. 5.50. The number of 20 p coins is,15,25, 30ÿÿ,35,a,quants
+318,March 1stÿ is Wednesday. Which month of the same year starts with the same day?,"october
+",November,December,None of these,b,reasoning
+319,"The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",9000,9400,9600,9800,c,quants
+320,How is Radha?s mother?s mother?s daughter-in-law?s daughter related to Radha?,Sister,Mother,Cousin,Aunt,c,reasoning
+321,"If A means ?-?,B means ?ö?,C means ?+?,and D means ?x?,then 15B3C24A12D2 =?",2,5by 9,34,5,d,reasoning
+322,"Ifÿ today is Thursday , after 730 days which will be the day of the week ?",Thursday,Friday,Saturday,Monday,c,reasoning
+323,The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is:,12,16,24,48,d,quants
+324,"If ?W? means ö,X means ?+?,Y means ?-? and Z means ?x? then 28Z3Y4x12W6=?",27,82,39,53,b,reasoning
+325,What is the remainder when 9^1+ 9^2 + 9^3 + .... + 9^8 is divided by 6?,3,2,0,5,c,quants
+326,"In how many ways can the letters of the word, ?TECHNOLOGY? be arranged?",1804400,1814400,1714400,1704400,b,quants
+327,In how many ways can a team 16 be chosen out of a batch of 20 players?,4845,6852,3125,5846,a,quants
+328,There are 12 yes or no questions. How many ways can these be answered?,1024ÿÿ,2048ÿÿÿÿÿÿÿÿÿÿÿÿ,4096ÿÿ,144,c,quants
+329,How many pieces of 0.85 metres can be cut from a rod 42.5 metres long?,30,40,60, None of these,d,quants
+330,"Findÿ theÿ sumÿ ofÿÿ theÿfollowingseries,1,4/5,16/25,64/125ÿ?????..",10,6,9,5,d,quants
+331,Findÿ theÿ sumÿ ofÿ allÿ 2ÿ digitÿ numbersÿ divisibleÿ byÿ 3.,2000,1665,1300,1448ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,b,quants
+332,. A boy runs 200 metresÿ in 24 seconds. What is his speed ?,20 km/hr, 24 km/hr, 28.5 km/hr,30 km/hr,d,quants
+333,How many years have 29 days in February from 2001 to 2100.,26ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,25ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,23ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,24,d,reasoning
+334,"ÿIn the series 5, 10, 20, 40,?.what will be the 10thÿterm?",1280,ÿ2560,1820,ÿ2650,b,reasoning
+335," If a * b = 2a ? 3b + ab, then 5 * 7 + 7 * 5 is equal to:",33ÿÿÿÿÿÿÿÿÿÿ,36,34,38,c,quants
+336,16 (81) 25ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 49 (169) 36ÿÿÿÿÿÿÿÿ 64 ( ? ) 4,121,84,81,100,d,reasoning
+337,The hexa decimal equivalent of the decimal number 128 is,128,175,80,81,c,quants
+338,The decimal number 1356 expressed in octal system equals,2514,125,353,235,a,quants
+339,The sum of the first 100 natural numbers is divisible by,"2, 4 and 8",2 and 4,2 only,None of these,c,quants
+340,"The value of P, when 4864 x 9P2 is divisible by 12, is:",2,5,8,None of these,d,quants
+341,If A : Bÿ = 4 : 7 and B : C = 5 : 9 then A : B : C is :,  20 : 35 : 63ÿÿÿ ÿÿÿÿÿÿÿ , 35 : 36 : 63ÿ,30 : 35 : 65,25 :34: 68,a,quants
+342,Which of the following has the most number of divisors?,99,101,176,182,c,quants
+343,"What will be the day of the week on 1stÿJanuary, 2010 ?",Friday,Saturday,Sunday,monday,c,reasoning
+344,"Ifÿ m : nÿ = 3 : 4 and n : oÿ = 8 : 9, then m : o is :",1 :3ÿÿÿÿÿÿÿÿÿÿ ,3 :2ÿ ,2 : 3ÿ ,01:02,c,quants
+345,"Howÿ manyÿÿ termsÿ areÿ thereÿ inÿ 2,4,8,16,???..1024?",10,6,9,8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ,a,quants
+346,The decimal fraction 0.75 in the binary system equals,0.11 ÿ ÿ ÿ ÿ ,0,0.1,0.111,a,quants
+347,"If 15% of A is the same as 20% of B, then A : Bÿ is :",3 : 4ÿÿÿÿ  ÿÿÿÿÿÿÿÿÿÿÿÿ ÿÿÿÿÿÿÿÿ ,04:03,17:16, 16 : 17,b,quants
+348,Findÿ theÿ averageÿ ofÿ allÿ evenÿ numbersÿ uptoÿ 75.,35,ÿÿÿÿ 36,ÿÿÿÿ  38,ÿÿÿÿ  34,c,quants
+349,Find theÿ averageÿ ofÿ firstÿ 40ÿ naturalÿ numbers.,20.5,18,19.5,19,a,quants
+350,The value of 34.31*0.473*1.567/0.0673*23.25*7.57 is,2,1.15,2.05,2.15,d,quants
+351,Embarrassed is to humiliated as frightened is to?..,terrifiedÿÿÿÿÿÿÿ, agitatedÿÿÿÿÿÿ, courageous,reckless,a,reasoning
+352,Amorphousness is to Definition as Lassitude is to??, Energyÿÿÿ, Awarenessÿÿÿ,Uniformityÿÿ,Companionship,a,reasoning
+353,The binary equivalent of the decimal number 125 is,1100100,1111101,1101100,1111111,b,quants
+354,"Find the lowest common multiple of 24, 36 and 40.",120,240,360,480,c,quants
+355,What percent is 2 minutes 24 seconds of an hour?,6%,ÿ2%,ÿ4%,8%,c,quants
+356,Which of the following fraction is the largest ?,7 by 8,13 by 16,31 by 40,63 by 80,a,quants
+357,If 7125?1.25= 5700< the value of 712.5ö12.5 is:,5.7,57,570,0.57,b,quants
+358,"If 45-[28-{37-(15-*)}]= 58, then * is equal to:", -29ÿÿÿ, -19ÿÿÿ, 19ÿÿÿ,29,c,quants
+359,252 can be expressed as a product of primes as:,2 x 2 x 3 x 3 x 7,2 x 2 x 2 x 3 x 7,3 x 3 x 3 x 3 x 7,2 x 3 x 3 x 3 x 7,a,quants
+360,The mean proportional between 234 and 104 is :,12ÿ,39ÿ,54ÿ,None of these,d,quants
+361,"Ifÿ log 27= 1.431, then the value of log 9 is:",0.934ÿ,0.945ÿÿ,0.954ÿ,0.958,c,quants
+362,"Which term of the series 5,8,11,14,??.is ÿ320?", 104th,105th,106th, 64th,c,reasoning
+363,"If p?q=p2+q2-p-q and p?q=pq-p-q,then(6?5)? 5 =",945,1148,983,764,a,reasoning
+364,Which of the followingÿ ratios is greatest ?,7 :15ÿÿÿÿÿÿÿÿÿÿÿ ,15:23,17 :25ÿÿÿÿÿÿÿÿÿ ,21:29,d,quants
+365,Which of the following fraction is smallest?,23/28,14/15,15/19,21/24,c,quants
+366,Find the highest common factor of 36 and 84.,4,6,12,18,c,quants
+367,Which year has the same calendar as 1700 ?ÿ,1705ÿÿÿÿÿÿÿÿÿÿÿ,1706 ÿÿÿÿÿÿÿÿÿÿÿ,1707 ÿÿÿÿÿÿÿÿÿÿÿ,1708,b,reasoning
+368,0.585858 is equivalent to the fraction?.,58/100,58/99,85/100,85/99,b,quants
+369,Candid is to indirect as honest is to???, Frankÿÿÿÿÿ, wickedÿÿÿÿ, truthfulÿÿÿÿÿÿ, untruthful,d,reasoning
+370, Insomnia is to Lead as Minamata is to??,Tobaccoÿÿ,Mercuryÿÿÿÿ,Alcoholÿÿ, Chromium,b,reasoning
+371,Bhakra is to Sutlej as Aswan is to ??..,indus, Damodarÿÿÿ, Volgaÿÿÿÿ, Nile,d,reasoning
+372, The last day of a century cannot be :,Monday,Wednesday,Friday,Saturday,d,reasoning
+373, The number 311311311311311311311 is:,divisible by 3 but not by 11,divisible by 11 but not by 3,divisible by both 3 and 11,neither divisible by 3 nor by 11,d,quants
+374,"The G.C.D. of 1.08, 0.36 and 0.9 is:",0.03,0.9,0.18,0.108,c,quants
+375,"If log x + log y = log (x+y), then,",x=y ÿ,xy=1 ,y= (x-1)/xÿÿ,y=x/(x-1),d,quants
+376,Find the value of (20C18)*(20C20),400,380,360,350,b,quants
+377,Dungeon: Confinement:: Asylum : ?, Refugeÿÿÿÿÿÿÿ,Mercyÿÿÿÿÿ,Truancyÿÿÿÿÿÿÿÿÿÿ,Remorseÿ,a,reasoning
+378,"If 5@6=61 and 8@10=164,then 7@9=?",125,63,130,32,c,reasoning
+379,ÿ0.9*0.007=ÿ ??????????_________,0.063,0.0063,0.63,0.00063,d,quants
+380,125 x 125 x 125 x 125 x 125 = 5?,5,3,15,2,c,quants
+381,(51+52+53+???+100) is equal to:,2525,2975,3225,3775,d,quants
+382, Scribble: Write: : Stammer : ?,walk, Playÿÿÿÿÿÿ, Speakÿÿÿÿÿ,Dance,c,reasoning
+383,"DEF, DEF2, DE2F2, _____, D2E2F3", DEF3ÿ, D3EF3ÿ, D2E3Fÿ, D2E2F2,d,reasoning
+384, Quail: Partridges: : Yak: ?,cows, Deerÿÿÿÿ, Oxenÿÿÿÿÿÿ, Antelopes,c,reasoning
+385,"ÿ1.5, 3, 5.5, 9, 13.5, 19, ?",.ÿ81,ÿ15.5,21.5,25.5,d,reasoning
+386,0.363*0.522+0.363*0.478 = ?,0.522,0.845,0.363,0.985,c,quants
+387," 380, 188, 92, 48, 20, 8, 2",188,92,48,20,c,reasoning
+388,20.05 + 35.603- ?? =43.087,10.263,12.566,15.426,13.286,b,quants
+389,Conviction : Incarceration,reduction : diminutionÿÿÿ,induction : ameliorationÿ, radicalization : estimationÿÿ,marginalization : intimidation,a,reasoning
+390, 19 23 29 31 37 41 _______,43,47,53,51,a,reasoning
+391,"If a$b=a2b2-ab , then 3$8=",600,552,576,625,b,reasoning
+392,Find the value ofÿ85P3ÿ.,565350,595650,535950,565350,b,quants
+393,117 * 117 + 83 * 83 = ?,20698,20578,21698,21268,b,quants
+394, CONFIRMED : INVETERATE,knowledge : supposed,financial : bankrupt, immature : callow, credible : incredible,b,reasoning
+395,101 131 374 383 313 727,383ÿ,374ÿ,101,727,b,reasoning
+396,Snake: Fang : : Bee: ?, Honeyÿÿÿÿ, Hummingÿÿ,Waxÿÿÿ,Sting,d,reasoning
+397, Embarrass: Humiliate,Enquire: Askÿÿÿ, Embezzle: Peculateÿÿ,Gamble: Investmentÿÿ,Annoy: Exasperate,d,reasoning
+398, 8 12 21 30 46 _____,54,62,50,34,b,reasoning
+399,LULLABY : BARCAROLE,birth : marriage,night : morning,cradle : gondola,song : poem,c,reasoning
+400,The value of 3.236,47/198,3  4/198,48/98,58/36,a,quants
+401, ZOOLOGY : ANIMALS, ecology : pollution, botany : plants,chemistry : atoms, history : people,a,reasoning
+402, ALCHEMY : SCIENCE, nostrum : remedy, sideshow : carnival,cploy : tactic,forgery : imitation,a,reasoning
+403,DKY FJW HIU JHS ——,KGRÿ, LFQÿ, KFRÿ,LGQÿ,d,reasoning
+404,0.0015öÿ? = 0.003,0.05,0.005,0.5,5,c,quants
+405,Evaluate 50!/ 47!,102500,112584,117600,118450,c,quants
+406, Partridge: Covey,Directors: Bandÿÿ, Mountain: Rangeÿÿÿ,Sheep: Swarmÿÿÿÿÿ, Goods: Consignment,d,reasoning
+407,"4, 3, 4, 9, 32 ??",125,135,145,155,d,reasoning
+408,Farce: Absurdity,Disease: Medicineÿÿ,Charity: Generosityÿÿÿ,Tragedy: Comedyÿÿ,Energy: Electricity,b,reasoning
+409, SAW : CARPENTER, Scissors : tailor, Wagon : farmer, Brush : painter, Typewriter : author,a,reasoning
+410, Arrows: Quiver,Fear: Trembleÿÿÿÿÿÿ,Money: Bankÿÿÿÿÿÿ, Sound: Musicÿÿÿÿÿÿÿ, Coin: Mint,b,reasoning
+411, Aerie : Eagle,capital : governmentÿÿÿÿÿ,bridge : architectÿÿÿÿÿ, unit : apartmentÿÿÿÿ,house : person,d,reasoning
+412,ANGLE : DEGREE, area : square inch, milk : quart, society : classes, letter : alphabet,a,reasoning
+413,PARQUET : WOOD,color : painting,mosaic : glass, potpourri : medley, collage : tapestry,b,reasoning
+414, NEEDLE : KNIT,bait : fish,match : fire,loom : weave,soap : wash,c,reasoning
+415,LURK : WAIT,aboost : elevate,deplete : drain,cabscond : depart,bilk : cheat,c,reasoning
+416,DORY : VAN,dairy : cow, fish : vehicle, freighter : caisson, runners : wheels,c,reasoning
+417,,,,,,c,quants
+418,,,,,,a,quants
+419,,,,,,b,quants
+420,,,,,,b,quants
+421,,,,,,b,quants
+422,,,,,,a,quants
+423,,,,,,b,quants
+424,,,,,,a,quants
+425,,,,,,d,quants
+426,,,,,,c,quants
+427,,,,,,b,quants
+428,,,,,,a,quants
+429,,,,,,d,quants
+430,,,,,,d,quants
+431,,,,,,d,reasoning
+432,,,,,,b,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning
+,,,,,,,reasoning

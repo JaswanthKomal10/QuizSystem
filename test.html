@@ -1,0 +1,82 @@
+<style>
+.mainDiv
+{
+	width:90%;
+	background-color:deeppink;
+	margin:auto;
+	text-align:center;
+	height:200px;
+	margin-bottom:10px;
+}
+
+.question
+{
+	min-height:80px;
+	background-color:yellowgreen;
+	margin:10px 10px 10px 10px;
+}
+
+.choices
+{
+	width:45%;
+	margin-bottom:10px;
+	margin-left:10px;
+	background-color:gold;
+	text-align:center;
+	float:left;
+	min-height:40px;
+
+}</style>
+<script>
+function select(opt)
+{
+	opt=opt+"";
+	no=opt.substring(0,1);
+	document.getElementById("choice"+ no +"1").style.backgroundColor="gold";
+	document.getElementById("choice"+ no +"2").style.backgroundColor="gold";
+	document.getElementById("choice"+ no +"3").style.backgroundColor="gold";
+	document.getElementById("choice"+ no +"4").style.backgroundColor="gold";
+	document.getElementById("choice"+ no + opt.substring(1,2)).style.backgroundColor="lime";
+
+}
+</script>
+<body>
+<div class=mainDiv>
+	<div class=question id="question1" >
+		Check the following and select the Correct One
+	</div>
+	<div class=choices id="choice11" onclick=select(11)>
+	   4*5^2=20
+	</div>
+	<div class=choices id="choice12" onclick=select(12)>
+	   4*5^2=20
+	</div>
+	<div class=choices id="choice13" onclick=select(13)>
+	   4*5^2=20
+	</div>
+	<div class=choices id="choice14" onclick=select(14)>
+	   4*5^2=20
+	</div>	
+</div>
+
+<div class=mainDiv>
+	<div class=question id="question2" >
+		Check the following and select the Correct One
+	</div>
+	<div class=choices id="choice21" onclick=select(21)>
+	   4*5^2=20
+	</div>
+	<div class=choices id="choice22" onclick=select(22)>
+	   4*5^2=20
+	</div>
+	<div class=choices id="choice23" onclick=select(23)>
+	   4*5^2=20
+	</div>
+	<div class=choices id="choice24" onclick=select(24)>
+	   4*5^2=20
+	</div>	
+</div>
+
+
+
+</body>

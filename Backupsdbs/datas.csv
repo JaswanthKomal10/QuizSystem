@@ -1,0 +1,209 @@
+serial,question,option1,option2,option3,option4,correct,subject
+1,A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?,120 metres,180 metres,324 metres,150 metres,d,quants
+2,Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:,01:03,03:02,03:04,None of these,b,quants
+3,A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long,65 sec,89 sec,100 sec,150 sec,b,quants
+4,Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:,50 m,72 m,80 m,82 m,a,quants
+5,A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?,40 sec,42 sec,45 sec,48 sec,a,quants
+6,Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:,36,45,48,49,c,quants
+7,A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?,3.6 sec,18 sec,36 sec,72 sec,c,quants
+8,A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?,230 m,240 m,260 m,320 m,a,quants
+9,A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?,230 m,240 m,260 m,270 m,d,quants
+10,A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?,5 sec,6 sec,7 sec,10 sec,b,quants
+11,The difference between the local value and face value of 7 in the      numeral 657903 is:,0,7896,6993,903,c,quants
+12, The unit?s digit in the product (3127)173˜˜is:,1,3,7,9,c,quants
+13,(51+52+53+???+100) is equal to:,2525,2975,3225,3775,d,quants
+14, The number 311311311311311311311 is:,divisible by 3 but not by 11,divisible by 11 but not by 3,divisible by both 3 and 11,neither divisible by 3 nor by 11,d,quants
+15,The largest natural number which exactly divides the product of any four consecutive natural numbers is:,6,12,24,120,c,quants
+16, The sum of three consecutive odd numbers is always divisible by  I. 2˜˜ II. 3˜˜˜˜III. 5˜˜ IV. 6,only 1,only 2,only  1 and 2,only 2 and 4,b,quants
+17,The least number which must be subtracted from 6709 to make it exactly˜ divisible by 9 is:,2,3,4,5,c,quants
+18,A number when divided b the sum of 555 and 445 gives two times their difference as quotient and 30 as the remainder. The number is:,1220˜˜,1250˜,22030,22030,d,quants
+19,The binary equivalent of the decimal number 125 is,1100100,1111101,1101100,1111111,b,quants
+20,The hexa decimal equivalent of the decimal number 128 is,128,175,80,81,c,quants
+21,The decimal number 1356 expressed in octal system equals,2514,125,353,235,a,quants
+22,The decimal conversion of the binary number (1111)2˜is?..,31,15,13,14,b,quants
+23,The sum of (101101)2˜and (111011)2˜is,1010110,1101000,1000110˜,1110010,b,quants
+24,The square root of (2011)5˜is,(21)5 ˜ ˜ ˜,(31)5˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜ ,(121)5˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜ ,(41)5,b,quants
+25,The sum of (6E)16˜and (3B)12˜is,(157)10˜ ˜ ˜ ˜,(137)11,(166)8,(192)7,a,quants
+26,The decimal equivalent of hexa-decimal number (ABC)16,2847˜,2748,7428,1478,b,quants
+27,The decimal fraction 0.75 in the binary system equals,0.11 ˜ ˜ ˜ ˜ ,0,0.1,0.111,a,quants
+28,The octal equivalent to the binary (11010)2˜is,26,32,28,30,a,quants
+29,117 * 117 + 83 * 83 = ?,20698,20578,21698,21268,b,quants
+30,(1/4)3 + (3/4)3 + 3(1/4)(3/4)(1/4 + 3/4) =?,Jan-64,27/64,49/64,1,d,quants
+31,The 7th digit of (202)3˜is,2,4,8,6,c,quants
+32,H.C.F. of two numbers is 16. Which one of the following can never be their L.C.M,32,80,64,60,d,quants
+33,What is the remainder when 9^1+ 9^2 + 9^3 + .... + 9^8 is divided by 6?,3,2,0,5,c,quants
+34,The sum of the first 100 natural numbers is divisible by,"2, 4 and 8",2 and 4,2 only,None of these,c,quants
+35,For what value of 'n' will the remainder of 351n˜and 352n˜be the same when divided by 7?,2,3,6,4,b,quants
+36,. A boy runs 200 metres˜ in 24 seconds. What is his speed ?,20 km/hr, 24 km/hr, 28.5 km/hr,30 km/hr,d,quants
+37,A person traveled from his house to office at 30 kmph; then he was late to his office by 5 minutes. If he increases his speed by 10 kmph he would be early by 15 minutes to his office. What should be his speed so that he reaches his office on time ?,36 kmph˜˜˜˜ ,32 kmph˜˜˜˜˜ ,34 kmph˜˜˜˜˜ ,35 kmph,b,quants
+38,A train 575 m long crosses a tunnel˜ of length 325˜ in 90 sec. What is the speed of the train in kmph.,28˜,32˜,36˜,24˜,c,quants
+39,Two persons start running simultaneously around a circular track of length 400 m from the same point at speeds of 15 kmph and 25 kmph. When will they meet for the first time any where on the track if they are moving in the opposite direction ?,144˜,36,124,32,b,quants
+40,A man driving his bike at 24 kmph reaches his office 5 minutes late. Had he driven 25% faster on an average he would have reached 4 minutes earlier than the scheduled time. How far is his office?,24 km˜, 72 km˜,18 km˜, Data Insufficient,c,quants
+41,The speed of a motorboat itself is 20 km/h and the rate of flow of the river is 4 km/h. Moving with the stream the boat went 120 km. What distance will the boat cover during the same time going against the stream?,80 km˜˜˜˜˜˜˜˜˜˜˜˜˜˜,180 km˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,60 km˜˜˜˜˜˜, 100 km,a,quants
+42,I travel the first part of my journey at 40 kmph and the second part at 60 kmph and cover the total distance of 240 km to my destination in 5 hours. How long did the first part of my journey last?,4 hours˜ ,2 hours˜ ,3 hours˜ ,2 hours 24 minutes,c,quants
+43,Ram covers a part of the journey at 20 kmph and the balance at 70 kmph taking total of 8 hours to cover the distance of 400 km. How many hours has been driving at 20 kmph?,2 hours˜,3 hours 20 minutes˜,1hours 40 minutes˜,3 hours 12 minutes,d,quants
+44,A can do a work in 14 days and working together A and B can do the same work in 10 days. In what time˜can B alone do the work?,25 days,30 days, 23 days, 35 days,d,quants
+45,Amit and Ananthu can do a work in 15 days and 25 days respectively. Amit started the work and left after 3 days. Ananthu took over and completed the work. In how many days was the total work completed?˜˜˜˜˜˜˜,28 days, 20 days,23 days,25 days,a,quants
+46, If A is thrice as fast as B and together can do a work in 21 days. In how many days A alone can do the work?,36,42,28,54,c,quants
+47, Rohit and Rohan can complete a work in 12 days and 6 days respectively. How much time will they take when working together?,4,3,5,2,a,quants
+48, A and B can do a work in 60 days; B and C can do it in 120 days; A and C can do it in 80 days. In what time A alone can do the work?,100,90,80,70,b,quants
+49, 3 workers transfer a tool weighing 120kg in 12 seconds. How many men are required to transfer it in 9 seconds?,4,5,6,8,a,quants
+50,2 men and 4 boys can complete a work in 4 days. 5 men and 6 boys can complete the same work in 3 days. The work done by 2 boys is equal to the work of how many men?,4,5,6,7,b,quants
+51,A is twice as good a workman as B and together they complete a work in 12 days. In how many days A alone can do the work?,32,34,35,36,d,quants
+52,Two pipes can fill a tank in 12 minutes and 20 minutes respectively. Both pipes are opened together and after some time the first pipe is closed and the tank is full in totally 10 minutes. For how many minutes was first pipe open?,8 minutes, 6 minutes,7 minutes, 10 minutes,b,quants
+53,Pipe A can fill a tank in 12 hours. Due to a leak at the bottom it takes 20 hours to fill the tank. In what time the leak alone can empty the full tank?,18 hours, 23 hours, 28 hours, 30 hours,d,quants
+54,X alone can do a piece of work in 15 days and Y alone can do it in 10 days. X and Y undertook to do it for Rs.720. With the help of Z they finished it in 5 days. How much is paid to Z?,Rs.360˜, Rs.120˜, Rs.240˜, Rs.300,b,quants
+55,A and B can do a piece of work in 21 and 24 days respectively. They started the work together and after some days A leaves the work and B completes the remaining work in 9 days. After how many days did A leave?,5,7,8,6,b,quants
+56,If A : B˜ = 4 : 7 and B : C = 5 : 9 then A : B : C is :,  20 : 35 : 63˜˜˜ ˜˜˜˜˜˜˜ , 35 : 36 : 63˜,30 : 35 : 65,25 :34: 68,a,quants
+57,Which of the following˜ ratios is greatest ?,7 :15˜˜˜˜˜˜˜˜˜˜˜ ,15:23,17 :25˜˜˜˜˜˜˜˜˜ ,21:29,d,quants
+58, The ratio of number of boys and girls in a class is 3 : 2.˜ In the 1st˜semester exam 20% of boys and 25% of girls get more than or equal to 90%˜ marks. What percentage of students get less than 90% marks ?,56,70,78,80,c,quants
+59,A mixture of 85 kg contains milk and water in the ratio 27 : 7. How much more water is to be added to get a new mixture containing milk and water in the ratio 3:1?,5 kg˜˜˜˜ ,6.5 kg˜˜˜˜˜˜˜˜˜˜ ,7.5 kg˜˜˜˜˜˜˜˜˜ ,8 kg,a,quants
+60,The speeds of three motor bikes are in the ratio 6 : 5 : 4.˜ The ratio between the time taken by them to travel the same distance is :,10:12:15,12 : 10 : 8˜˜˜ ,15 : 12: 10˜˜ ,10:15:12,a,quants
+61,In a company 10% of male staff are same in number as 1/4th˜of the female staff. What is the ratio of˜male staff to female staff,3 : 2˜˜˜˜˜˜˜˜˜˜˜˜ ,5 : 2˜˜˜˜˜˜˜˜˜˜˜ ˜˜˜˜˜˜˜˜˜˜˜ ,2 : 1˜˜˜˜˜˜˜˜˜˜˜˜ ,04:03,b,quants
+62,The telephone bill of a certain establishment is party fixed and partly varies as the number of calls consumed. When in a certain month 540 calls made the bill is Rs.1800. In another month 620 calls are consumed then the bill becomes Rs.2040. In another month 500 units are consumed due to more holidays. The bill for that month would be :,Rs.1560˜˜˜˜˜˜˜˜˜˜ ,Rs.1680˜˜˜˜˜ ,Rs1840˜,Rs.1950,b,quants
+63,The mean proportional between 234 and 104 is :,12˜,39˜,54˜,None of these,d,quants
+64,The Price of 357 apples is Rs.2499. What will be the˜ price of 49 dozens of such apples?,Rs.3800 ˜˜˜˜˜ ,Rs.2816˜˜˜˜˜˜ ,Rs.4116˜˜˜˜˜˜˜ ,Rs.3116,c,quants
+65,Some ladies can do a piece of work in 12 days. Two times the number of such ladies will do half of that work in :,6 days˜˜˜˜˜˜˜˜˜ ,4 days˜˜˜˜˜˜˜˜ ,12 days ˜˜˜˜˜˜˜ , 3 days,d,quants
+66,A wheel rotates 10 times every minute and moves 20 cm during each rotation. How many metres does the wheel move in one hour?,6 metre ˜˜˜˜˜˜ ,12 metre ˜˜˜˜ ,120 metre˜˜˜ ,1200 metre,c,quants
+67,Two numbers are respectively 20% and 50% more than a third number.The ratio of the two numbers is,2 : 5˜˜˜˜,3 : 5˜˜˜˜,4 : 5˜˜˜˜,06:07,c,quants
+68,The speed of an engine is proportional to the square root of the number of wagons attached to it. Without any wagons attached to it the speed of the engine is 60km/hr. With 16 wagons attached to it the speed of the engine is 40km/hr; find the maximum number of wagons that can be attached so that the train moves.,144˜˜˜˜˜˜˜˜˜,145˜˜˜˜˜˜˜˜˜, 142˜˜˜˜˜˜˜˜˜,143,d,quants
+69,Find the˜ average˜ of˜ first˜ 40˜ natural˜ numbers.,20.5,18,19.5,19,a,quants
+70,Find˜ the˜ average˜ of˜ all˜ the numbers˜ between˜ 6 and 34˜ which˜ are˜ divisible˜ by 5,18,20˜,24,30˜˜,b,quants
+71,The˜ average˜ of˜ 7 consecutive numbers is 20. The largest˜ of˜ these˜ numbers˜ is,20,˜˜˜ 22,˜˜˜  23,˜˜˜ 24˜˜˜˜˜˜˜,c,quants
+72,Nine˜ persons˜ went˜ to˜ a hotel˜ for˜ taking˜ their meals. Eight˜ of˜ them˜ spent Rs 12˜˜ each˜ on˜their˜ meals˜ and˜ the˜ ninth spent˜ Rs.8˜ more˜ than˜ the˜ average˜ expenditure˜ of˜ all˜ the ˜nine.˜What˜ was˜ the˜ total money˜ spent˜ by˜ them?˜,117,˜˜˜  180,˜˜˜  150,˜˜˜ 200˜˜˜˜˜˜,a,quants
+73,The˜ average˜ age˜ of˜ a˜ committee˜ of˜ 8˜ members˜ is˜ 40˜ years. A member aged˜ 55˜ years˜retired˜ and˜ his˜ place˜ was˜ taken˜ by˜ another˜ member˜ aged˜ 39˜ years . The˜ average˜ age˜ of˜present˜ committee˜ is;, 39 years,˜˜˜ 38 years,˜˜˜ 36 years,˜˜˜ 35 years,b,quants
+74,Find˜ the˜ average˜ of˜ all˜ even˜ numbers˜ upto˜ 75.,35,˜˜˜˜ 36,˜˜˜˜  38,˜˜˜˜  34,c,quants
+75, The˜ number˜ of˜ students˜ in˜ the˜ three˜ sections˜ of˜ a˜ class˜ are˜ in˜ the˜ ratio˜ 2:3:4.˜ The˜average˜ marks˜ scored˜ in˜ each˜ of˜ these˜ sections˜ is˜ in˜ the˜ ratio˜ 4:3:1.˜ By˜ what˜ percent˜ is˜the˜ average˜ mark˜ of˜ the˜ second˜ section˜ more˜ than˜ the˜ class˜ average?,23.27%,28.57%,32.38%,36.74%,b,quants
+76,Eight˜ kilograms of˜ rice˜ costing Rs. 16˜ per˜ kg˜ is˜ mixed˜ with four˜ kilograms of rice˜ costing˜ Rs. 22 per˜ kg.˜ What˜ is˜ the˜ average˜ price˜ of˜ the˜ mixture?,20,18,16,19˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,b,quants
+77,A˜ single˜ refined˜ oil˜ can˜ contains˜ 20%˜ impurities.˜ After˜ double ? refining˜ it˜ contains˜ 4% impurities.˜ How˜ much˜ of˜ double- refined˜ oil˜ can˜ be˜ obtained˜ from˜ 30˜ litres˜ of single˜refined˜ oil?,24.0 litres,24.8 litres, 25.0 litres,25.5 litres˜˜˜˜˜˜˜˜˜˜˜˜˜˜,c,quants
+78,A˜ mixture of˜ 20 kg˜ of˜ spirit˜ and˜ water˜ contains˜ 10%˜ water.˜ How˜ much˜ water˜ must˜ be˜added˜ to˜ this˜ mixture˜ to˜ raise˜ the˜ percentage˜ of˜ water˜ to˜ 25%,4 kg, 5 kg, 8 kg, 30 kg,a,quants
+79,The average of 5 quantities is 6. The average of 3 of them is 8. What is the average of the remaining two numbers?,6.5,4,3,3.5,c,quants
+80, The average of 5 quantities is 10 and the average of 3 of them is 9. What is the average of the remaining 2?,11˜˜˜˜˜˜, 12˜˜˜˜˜˜˜˜˜˜˜˜, 11.5˜˜˜˜˜˜˜˜˜˜,12.5,c,quants
+81,The average age of a family of 5 members is 20 years. If the age of the youngest member be 10 years then what was the average age of the family at the time of the birth of the youngest member?,13.5˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,14˜˜˜˜˜˜˜˜˜˜˜˜˜,15 ˜˜ ˜˜˜˜˜˜˜˜˜˜˜˜,12.5,d,quants
+82,Average cost of 5 apples and 4 mangoes is Rs.36. The average cost of 7 apples and 8 mangoes is Rs.48. Find the total cost of 24 apples and 24 mangoes.,Rs.1044˜˜˜˜˜˜˜˜˜˜˜˜˜, RS.2088 ˜˜˜˜˜˜˜˜˜,Rs.720˜˜, Rs.324,b,quants
+83,What percent is 2 minutes 24 seconds of an hour?,6%,˜2%,˜4%,8%,c,quants
+84, Adding˜ 20%˜ of˜ x˜ to˜ x˜ is˜ equivalent˜ to˜ multiplying˜ x˜ by˜ which˜ of˜ the˜ following?,12.5,˜1.05,1.15,1.2,d,quants
+85,What is the value of˜ 81/3%˜ of˜˜ 600+˜ 37˜®˜ of˜ 400,100,300,150,˜200,d,quants
+86,Two˜ third˜ of˜ three fifth˜˜ of˜ five˜ sixth˜ of˜ a˜ number˜ is˜ what˜ percentage˜ of˜ that˜ number?,66˜2/3˜%,˜33˜1/3˜%,˜60%,˜40%,b,quants
+87,The salary˜ of˜ all officers˜ is˜ increased˜ twice successively˜ by˜ 20%.˜ What˜ is˜ the˜ net˜ percentage˜ increase˜ in˜ their˜ salaries?,20%,˜40%,21%,44%,d,quants
+88,10 litres˜ of˜ water˜ is˜ added˜ to˜ 50 litres˜ of˜ a˜ solution˜ containing˜ 20%˜ of˜ alcohol˜ in˜ water . What˜ is˜ the˜ strength˜ of˜ alcohol˜ in˜ the˜ solution˜ now ?,20%,16˜2/3˜%,12˜1/2˜%,33 1/3˜%,b,quants
+89,What  quantity   of  water  should  be added  to  reduce  5 litres  of  45%   acidic  liquid   to  25%   acidic  liquid?,3litres,2litres, 4litres, 4.5litres˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,c,quants
+90,A trader makes a profit equal to the selling price of 75articles when he sold 100 of the articles. What % profit did he make in the transaction?,33.33%,75%,300%,150%,c,quants
+91,A merchant buys two articles for Rs.600. He sells one of themat a profit of 22% and the other at a loss of 8% and makes no profitor loss in the end. What is the selling price of the article that hesold at a loss?,Rs. 404.80, Rs. 440,Rs. 536.80,Rs. 160,a,quants
+92,A trader professes to sell his goods at a loss of 8% but weights900 grams in place of a kg weight. Find his real loss or gain percent.,2% loss, 2.22% gain, 2% gain, None ofthese,b,quants
+93,If apples are bought at the rate of 30 for a rupee. How manyapples must be sold for a rupee so as to gain 20%?,28,25,20,22,b,quants
+94,A merchant marks his goods in such a way that the profit onsale of 50 articles is equal to the selling price of 25 articles.What is his profit margin?,25%,50%,100%,66.67%,b,quants
+95,A merchant marks his goods up by 75% above his cost price. Whatis the maximum % Amount that he can offer so that he ends up sellingat no profit or loss?,75%,46.67%,300%,42.85%,c,quants
+96,The price of a T.V. is increased 30% before budget and inbudget 20% is also increased. Then total increase in price will be,50%,56%,55%,59%,d,quants
+97,The simple Interest on a certain sum of money at the rate of 4% p.a.˜ for 5 years is Rs. 1680. At what rate of interest the same amount of interest can be received on the same sum after 4 years ?,5%˜˜ ˜˜˜ ˜˜˜ ,6%,7%,8%,a,quants
+98, The interest on a certain deposit at 4.5% p.a. is Rs. 405 in one year. How much will the additional interest in one year be on the same deposit at 5% p.a. ?,Rs.50˜˜˜˜˜˜˜˜˜˜˜ ,Rs. 45˜˜˜˜˜˜˜˜˜ ,Rs.40.5˜˜˜˜˜˜˜˜ ,Rs. 48.5,b,quants
+99,A sum of money is borrowed and paid back in two annual installments of Rs.882 each allowing 5% compound interest. The sum borrowed was :,Rs.1620˜˜˜˜˜˜ ,Rs. 1640˜,Rs.1680 ,Rs.1700,b,quants
+100,Rakesh invested an amount of Rs.12000 at the rate of 10% simple interest and another amount at the rate of 20% simple interest. The total interest earned at the end of one year on the amount invested became 14 p.c.p.a. Find the total amount invested .,Rs.20000,Rs.22000˜˜˜˜˜ ,Rs.24000˜˜˜˜ ,Rs.25000,a,quants
+101,The rate of simple interest in two banks is in the ratio of 4 : 5 . Amith wants to deposit his total saving in these two banks˜ in such a way that he should receive equal half yearly interest from both. He should deposits the saving in the banks in the ratio of:,2 : 5 ˜˜˜ ,5 : 4˜ ,5 : 3˜˜˜˜˜˜˜˜˜˜˜ ,04:05,b,quants
+102, A sum of money becomes triple itself in 16 years. In how many years will it become 5 times at the same rate?,32,15,27,30,a,quants
+103, At what rate of compound interest per annum will a sum of Rs.1200 become Rs.1348.32 in 2 years?, 6%˜˜ ˜˜˜˜˜˜˜˜˜˜˜ ˜˜ ,6.50%,7%˜,7.50%,a,quants
+104,Simple interest on a certain sum of money for 3 years at 8% per annum is half the compound interest on Rs. 4000 for 2 years at 10% per annum. The sum placed on simple interest is:,Rs.1550˜˜,Rs.1650˜˜˜˜˜˜˜ ,Rs.1750˜˜˜˜˜˜ ,Rs.2000˜,c,quants
+105,if the annual rate of simple interest increases from 10% to 12.5% .Then a man?s yearly income from an investment increases by Rs.1250. His principle amount is:,"Rs,45000˜˜˜˜ ","Rs.50,000˜˜˜˜ ","Rs. 60,000˜˜ ","Rs.65,000",b,quants
+106,Raghav˜ borrows Rs.2550 to be paid back with compound interest at the rate of 4% per annum by the end of 2 years in two equal yearly instalments. How much will each instalment be ?,Rs.1275˜˜˜˜˜˜ ,Rs.1283 ,Rs.1352˜˜˜˜˜˜˜˜˜˜˜ ,Rs.1377,c,quants
+107,A man invested an amount of Rs.8000 in a fixed deposit scheme for 2 years at compound interest of 5% per annum. How much amount will Albert get on maturity of the fixed deposit ?,Rs.8600˜˜˜˜˜˜ ,Rs.8620˜,Rs.8820˜˜˜˜˜˜ ,Rs. 8840,c,quants
+108,The difference between simple interest and compound interest on Rs.1200 for one year at 10% per annum reckoned half-yearly is :,Rs.2.50˜,Rs.3 ˜˜˜˜˜˜˜˜˜˜˜ ,Rs.3.75˜˜˜˜˜˜˜˜ ,Rs.4,b,quants
+109,A father left a will of Rs.35 lakhs between his two daughters aged 8.5 and 16 such that they may get equal amounts when each of them reach the age of 21 years. The original amount of Rs.35 lakhs has been instructed to be invested at 10% p.a. simple interest. How much did the elder daughter get at the time of the will?,Rs.17.5 lakhs˜,Rs.21 lakhs˜, Rs.15 lakhs˜, Rs. 20 lakhs,b,quants
+110,A man invests Rs.5000 for 3 years at 5% p.a. compound interest reckoned yearly. Income tax at the rate of 20% on the interest earned is deducted at the end of each year. Find the amount at the end of the third year.,5624.32˜,5630.50˜,5788.125˜,5627.2,a,quants
+111,The difference between the compound interest and the simple interest on a certain sum at 12% p.a. for two years is Rs.90. What will be the value of the amount at the end of 3 years?, 9000˜,6250˜,8530.80˜,8780.8,d,quants
+112,A sum of money invested for a certain number of years at 8% p.a. simple interest grows to Rs.180. The same sum of money invested for the same number of years at 4% p.a. simple interest grows to Rs.120 only. For how many years was the sum invested?,25 years˜, 40 years˜,33 years and 4 months˜,Cannot be determined,a,quants
+113,20.05 + 35.603- ?? =43.087,10.263,12.566,15.426,13.286,b,quants
+114,Which of the following fraction is smallest?,23/28,14/15,15/19,21/24,c,quants
+115,0.585858 is equivalent to the fraction?.,58/100,58/99,85/100,85/99,b,quants
+116,The value of 3.236,47/198,3  4/198,48/98,58/36,a,quants
+117,˜0.9*0.007=˜ ??????????_________,0.063,0.0063,0.63,0.00063,d,quants
+118,0.0015”˜? = 0.003,0.05,0.005,0.5,5,c,quants
+119,0.363*0.522+0.363*0.478 = ?,0.522,0.845,0.363,0.985,c,quants
+120,If 7125?1.25= 5700< the value of 712.5”12.5 is:,5.7,57,570,0.57,b,quants
+121,The value of 34.31*0.473*1.567/0.0673*23.25*7.57 is,2,1.15,2.05,2.15,d,quants
+122,Evaluate˜(5.68)2˜? (4.32)2 /5.68-4.32,8,9,10,12,c,quants
+123, Evaluate˜4.3*4.3*4.3+1/4.3*4.3-4.3+1,14.3,52.3,5.3,42.3,c,quants
+124,25.25/2000˜is equal to:,1.012526,0.012625,0.12526,0.12625,b,quants
+125,The value of˜(2.502+0.064)2˜- (2.502-0.064)2/2.502*0.064,0.25,0.235,4,3,c,quants
+126,The value of˜4.5*1.8+4.5*8.2/1.5*4.5+1.5*5.5,10,8,5,3,d,quants
+127,The value of˜(.02)2˜+ (0.52)2˜+ (0.035)2 / (0.002)2˜+ (0.052)2˜+ (0.0035)2,100,1000,0.001,0.0001,a,quants
+128,One-fifth of Ramu?s expenditure is equal to one-half of his savings. If his monthly income is Rs.6300 how much amount does he save?,˜Rs.1550,Rs.1800,˜Rs.2000,Rs.2350,b,quants
+129,A person can row 750 metres˜ against the stream in 11 ª minutes and returns in 7 ® minutes. The speed of the person in in still water is :,2 km/hr,3 km/hr˜˜˜˜˜˜˜˜ ,4km/hr˜˜˜˜˜˜˜˜˜ ,5 km/hr,d,quants
+130, A boat moves upstream at the rate of 1 km in 20 minutes and down stream 1 km in 12 minutes. The speed˜ of the current is :,1 kmph ,2 kmph˜˜˜˜˜˜˜˜ ,3 kmph˜˜˜˜˜˜˜˜ ,2.5 kmph,a,quants
+131,A man can row˜ a boat at 10 kmph in still water and˜ the speed of the stream is 8 kmph. What is the time taken to row a distance of 90 km down the stream ?,8hrs,5 hrs˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜ ,15 hrs ˜˜˜˜˜˜˜˜ ,20 hrs,b,quants
+132,Find˜ the˜ 15th˜˜term˜ of˜ an˜ arithmetic˜ progression˜ whose˜ first˜ term˜ is˜ 2˜ and˜ the˜ common˜ difference˜ is˜ 3.,45,38,44,40,c,quants
+133,The˜ first˜ term˜ of˜ an˜ arithmetic˜ progression˜ is 3˜ and˜ the˜ 10˜th˜˜ term˜ is˜ 21.˜ Find˜ 15 th˜ and˜ 22 nd˜ terms.,"21,35","31,45","30,46","29,40˜˜˜˜˜˜˜˜˜˜",b,quants
+134,The˜ 5˜th˜ term˜˜ and˜ 21˜st˜ term˜ of˜ a˜ series˜ in˜ A.P˜ are˜ 10˜ and˜ 42˜ respectively.˜˜ Find˜ the˜ 31 st˜ term.,50,55,65,62˜˜ ˜˜˜˜˜˜˜˜˜,d,quants
+135,"Five˜ times˜ the˜ fifth˜ term˜ of˜ an˜ A.P˜ is˜ equal˜ to˜ six˜ times˜ the˜ sixth˜ term˜ of˜ the˜ A.P,˜ What˜ is˜ the˜ value˜ of˜ the˜ eleventh˜ term?",1,5,0,2,c,quants
+136,Find˜ the˜ sum˜ of˜ all˜ 2˜ digit˜ numbers˜ divisible˜ by˜ 3.,2000,1665,1300,1448˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,b,quants
+137,The˜ sum˜ of˜ n˜ terms˜ of˜ a˜ series˜ in˜ A.P˜ is˜ 6n2˜+ 6n.˜ What˜ is˜ the˜ 4 th˜ term˜ of˜ the˜ series?,38,49,60,48˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,d,quants
+138,The˜ sum˜ of˜ the˜ first˜ five˜ terms˜ of˜ a˜ G.P is˜ 363.˜ If˜ the˜ common˜ ratio˜ is˜ 1/3˜ find˜ the˜ first˜ term.,323,243,232,332,b,quants
+139,There˜ are˜ n˜ arithmetic˜ means˜ between˜ 3˜ and˜ 45˜ such˜ that˜ the˜ sum˜ of˜ these˜ arithmetic˜ means˜ is˜ 552.˜ find˜˜ the˜ value˜˜ of˜ n.,11,15,17,23,d,quants
+140,Find˜ the˜˜ last˜ term˜˜ of˜ a˜ G.P whose˜ first˜ term˜ is˜ 9˜ and˜ common˜ ratio is ( 1/3 )˜ if˜ the˜ sum˜ of˜ the˜ terms˜ of˜ the˜ G.P˜ is ( 40/3 ),1 by 3,2 by 5,ª,2/3˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,a,quants
+141,Find˜ the˜ common˜ ratio˜ of˜ three˜ numbers˜ in˜ G.P˜ whose˜ product˜ is˜ 216˜ and˜ the˜ sum˜˜ of˜ the˜ products˜ taken˜ in˜ pairs˜ is˜ 114.,2˜ or˜ ®,2/3 or 3/2,? or˜ 4/3,4˜ or˜ ª˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,b,quants
+142,What˜ is˜ the˜ sum˜ of˜ the˜ first˜ 15˜ terms˜ of˜ an˜ A.P˜ whose˜ 11 th˜ and˜˜ 7 th˜ terms˜ are˜ 5.25˜ and˜ 3.25˜ respectively,56.25,60,52.5,None˜ of˜ these˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,a,quants
+143,Four˜ angles˜ of˜ a˜ quadrilateral˜ are˜ in˜ G.P.˜ Whose˜ common˜ ratio˜ is˜ an˜ intiger.˜ Two˜ of˜ the˜ angles˜ are˜ acute˜ while˜ the˜ other˜ two˜ are˜ obtuse.˜˜ The˜ measure˜ of˜ the˜ smallest˜˜ angle˜ of˜ the˜ quadrilateral˜ is,12,24,36,48,b,quants
+144,Evaluate 50!/ 47!,102500,112584,117600,118450,c,quants
+145,Find the value of˜85P3˜.,565350,595650,535950,565350,b,quants
+146,Find the value of (20C18)*(20C20),400,380,360,350,b,quants
+147,In how many ways can a team 16 be chosen out of a batch of 20 players?,4845,6852,3125,5846,a,quants
+148,In how many ways can a committee consisting of 4 men and 5 women be formed from a group of 7 men and 9 women?,7C4˜˜9C5,4C7˜˜5C9,7C5 ˜9C4,˜9C4˜˜7C5,a,quants
+149,In how many ways can 5 boys and 3 girls sit around a table in such a way that no two girls sit together?,1000,1400,1440,1800,c,quants
+150,A letter lock has 3 rings each containing 6 letters. What is the maximum number of false trials that can be made before the lock is opened?, 3*26C6, (26C6)3,˜26C6. 3!,215,d,quants
+151,A letter lock has 3 rings each containing 6 letters. How many such three letter passwords can exist?,216,26C6˜*3,(26C6)3, (26C6)3˜*63,d,quants
+152,How many different words can be formed from the word DAUGHTER so that ending and beginning letters are consonants?,7200,14400,360,1440,b,quants
+153, In how many ways can 22 books on English and 20 books on Hindi be placed in a row on a shelf so that two books on Hindi may not be together?,4586,5896,2415,1771,d,quants
+154,How many words can be formed by re-arranging the letters of the word ASCENT such that A and T occupy the first and last position respectively?,5!˜˜˜˜˜,4!˜˜˜˜˜˜˜˜˜˜˜˜,6! - 2!˜˜˜˜˜˜˜,6! / 2!,b,quants
+155,There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?, 2 * 19!˜˜˜˜˜˜˜˜˜˜˜˜˜,18! * 18˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜, 19! * 18˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,2 * 18!,d,quants
+156,There are 12 yes or no questions. How many ways can these be answered?,1024˜˜,2048˜˜˜˜˜˜˜˜˜˜˜˜,4096˜˜,144,c,quants
+157,How many numbers are there between 100 and 1000 such that at least one of their digits is 6?,648˜˜˜˜,258˜˜˜˜˜˜˜˜˜˜˜,654˜˜˜˜˜˜˜˜˜˜˜˜,252,d,quants
+158,"How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters?",510˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜,105˜˜˜˜˜˜˜˜˜˜˜,10P5˜,10C5,a,quants
+159,In how many ways can the letters of the word EDUCATION be rearranged so that the relative position of the vowels and consonants remain the same as in the word EDUCATION?,9!/4˜˜˜˜,9!/(4!*5!),4!*5!,None of these,c,quants
+160,In how many ways can 15 people be seated around two round tables with seating capacities of 7 and 8 people?,15!/(8!)˜˜˜˜˜˜˜˜˜˜˜˜,7!*8!˜˜˜˜˜˜˜˜˜˜˜˜, (15C8)*6!*7!˜˜˜˜˜˜˜˜˜˜˜˜,2*(15C7)*6!*7!,c,quants
+161,If the letters of the word CHASM are rearranged to form 5 letter words such that none of the word repeat and the results arranged in ascending order as in a dictionary what is the rank of the word CHASM?,24˜,31˜, 32˜,30,c,quants
+162,How many number of times will the digit '7' be written when listing the integers from 1 to 1000?,271˜˜˜˜,300˜˜˜˜˜˜˜˜˜˜˜˜,252˜˜˜˜˜˜˜˜˜˜˜,304,b,quants
+163,What is the probability of getting at least one six in a single throw of three unbiased˜dice?,1 by 6,125/216˜˜˜˜˜˜˜ ,1 by 36,91/216,d,quants
+164,Two dice are rolled. The probability of getting a sum of at least 9 is,13/36˜˜˜˜˜˜˜˜ ,5/18˜˜˜˜˜˜˜˜˜ ,35/36˜˜˜˜˜˜ ˜˜˜˜,11/36˜˜,b,quants
+165,A number is selected at random from first thirty natural numbers. What is the chance that it is a˜multiple of either 3 or 13?,17/30˜,2/5˜˜˜˜˜˜˜˜ ,11/30˜˜˜˜˜˜˜˜˜ ,4 by 15,b,quants
+166,The probability that a number selected at random from first 50 natural numbers is a composite˜number is,21/25˜,17/25˜,4/25˜,8 by 25,b,quants
+167,Two letters are selected randomly from English alphabet simultaneously. What is the probability that one is a constant and the other a vowel?,10/67˜˜˜˜˜˜,21/65˜˜˜˜,44/65˜˜˜˜,2 by 13,b,quants
+168,Two dice are rolled together. The probability that the sum of the numbers shown on the two dice is maximum or minimum is??,1/18˜˜˜˜˜˜˜˜˜˜,1/9˜˜˜˜˜˜,1/6˜˜˜˜˜˜˜,1 by 36,a,quants
+169,Two cards are drawn at random from a pack of cards. The probability that both are queens or diamonds is??,20/221˜˜˜˜,15/221˜˜˜˜,13/221˜˜˜˜,14/221,d,quants
+170,If a * b˜ =˜˜a+b / ab find the value of 5 * (5 * -2) :,-3,-10,-1.66,3/5˜,b,quants
+171,The value of ˜1 + [1/(8 x 2)] + [1/(8 x 2?)] + [1/(8 x 2?)] is :,71/64,1 by 16,1 by 4,None of these,a,quants
+172,The value of˜˜(x ? y)? + (y - z)? + (z ? x)? / 12 (x ? y) (y ? z) (z ? x) ˜is equal to :,0,1 by 12,1,1 by 4,d,quants
+173, A girl was asked to multiply a certain number by 43. She multiplied it by 34 and got his answer less than˜ the correct one by 1206. Find the number to be multiplied.,130,132,134,136,c,quants
+174,The value of 40 coins of 10 p and 20 p is Rs. 5.50. The number of 20 p coins is,15,25, 30˜˜,35,a,quants
+175, How many 1/8s are there in 37˜1/2?,300,400,500,Can?t be determined,a,quants
+176,How many pieces of 0.85 metres can be cut from a rod 42.5 metres long?,30,40,60, None of these,d,quants
+177,((469 + 174)2˜- (469 - 174)2)/(469 x 174)) = ?,2˜˜˜,4˜˜˜, 295˜˜˜,643,b,quants
+178,The simplified form of˜˜x9/2˜. –y7˜/  x7/2˜. –y3 is:,x2/y2,x2˜. y2,xy,x2/y,b,quants
+179,Which among the following is the greatest?, 23^2,22^3,˜ 32^3, 33^3,d,quants
+180,Solve for˜m˜if 49(7m) = 3433m + 6,-1.333333333,-2,-0.666666667,-1,b,quants
+181,Solve for 2y^–2^2˜= 729.,¤3, ¤1,¤2,¤4,c,quants
+182,–[200–[200–[200??..]]] = ?,200,10,1,20,a,quants
+183,125 x 125 x 125 x 125 x 125 = 5?,5,3,15,2,c,quants
+184,Number of prime factors in˜612˜x (35)28˜x (15)16˜  / (14)12˜x (21)11 is :,56,66,112,None of these,b,quants
+185,The value of (–8)1/3˜is:,6,4,2,8,c,quants
+186,The value of 51/4˜* (125)0.25˜is:,–5˜˜˜˜˜˜˜,5–5˜˜˜˜˜˜˜,5˜˜˜˜˜˜˜,25˜,c,quants
+187,The value of (32/243)-4/5˜is:, 4/9˜˜˜˜˜˜˜,9/4˜˜˜˜˜˜˜,16/81˜˜˜˜˜˜˜,81/16,d,quants
+188,(1/216)-2/3˜” (1/27)-4/3˜= ?,3/4˜˜˜˜˜˜˜, 2/3˜˜˜˜˜˜˜,4/9˜˜˜˜˜˜˜,1 by 8,c,quants
+189,(2n+4˜-2.2n)/(2.2n+3) = 2-3˜is equal to:, 2n+1˜˜˜˜˜˜˜,-2n+1˜+ 1/8˜,9/8 - 2n˜˜˜˜˜˜˜,1,d,quants
+190,The simplified form of (x7/2˜/x5/2).–y3 /–y )is :,x2/y˜˜˜˜˜˜˜, x3/y2˜˜˜˜˜˜˜˜˜˜˜,x6/y3˜˜˜˜˜˜˜,xy,d,quants
+191,2 log10˜5 + log10˜8 ? ® log10˜4 = ?,2,4,2 + 2 log10˜2˜,4 - 4 log10˜2,a,quants
+192,The value of (log9˜27 + log8˜32) is:,7 by 2,19/6˜,5/3˜,7,c,quants
+193,The value of (1/log3˜60˜ + 1/log4˜60˜ + 1/log5˜60) is:,0,1,5,60,b,quants
+194,The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:,276,299,322,345,c,quants
+195,Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:,40,80,120,200,a,quants
+196,The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:,1,2,3,4,b,quants
+197,Reduce  128352/238368 to the lowest terms,3 by 4,5 by 13,7 by 13,9 by 13,c,quants
+198,The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is:,12,16,24,48,d,quants
+199,"The smallest number which when diminished by 7, is divisible 12, 16, 18, 21 and 28 is:",1008,1015,1022,1032,b,quants
+200,252 can be expressed as a product of primes as:,2 x 2 x 3 x 3 x 7,2 x 2 x 2 x 3 x 7,3 x 3 x 3 x 3 x 7,2 x 3 x 3 x 3 x 7,a,quants
+201,Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073. The sum of the three numbers is:,75,81,85,89,c,quants
+202,Find the highest common factor of 36 and 84.,4,6,12,18,c,quants
+203,Which of the following fraction is the largest ?,7 by 8,13 by 16,31 by 40,63 by 80,a,quants
+204,Which of the following has the most number of divisors?,99,101,176,182,c,quants
+205,The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is:,28,32,40,64,c,quants
+206,A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:,6 hours,10 hours,15 hours,30 hours,,quants
+207,Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is:,60 gallons,100 gallons,120 gallons,180 gallons,,quants
+208,A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?,15 min,20 min,27.5 min,30 min,,quants
